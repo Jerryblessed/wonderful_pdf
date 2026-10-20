@@ -17,7 +17,7 @@ AZURE_IMAGE_ENDPOINT = os.getenv(
 )
 AZURE_IMAGE_KEY = os.getenv(
     "AZURE_IMAGE_KEY",
-    "8ymLVcDxvdHOOf380IYYFsgYF4Uq8UPVjGRLMSPxicE7QvjrU4dLJQQJ99CCACHYHv6XJ3w3AAAAACOG7Q6w"
+    ""
 )
 
 OUTPUT_ROOT = "bible_comic_assets"
