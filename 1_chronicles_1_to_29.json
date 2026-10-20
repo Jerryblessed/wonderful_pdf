@@ -1,0 +1,778 @@
+[
+    {
+        "panel_id": 1,
+        "book": "1 Chronicles",
+        "chapter": 1,
+        "verses": "1:1-4",
+        "title": "From Adam to Noah",
+        "image_prompt": "Biblical historical realism presented as a genealogical scroll tableau, not as a claim that all generations lived at once. A long parchment records Adam, Seth, Enosh, Kenan, Mahalaleel, Jared, Enoch, Methuselah, Lamech, and Noah in order, with Shem, Ham, and Japheth shown at the end. Small ancestral portraits and an ancient Near Eastern landscape reinforce generational succession; names are clearly written and no unrecorded episode is invented."
+    },
+    {
+        "panel_id": 2,
+        "book": "1 Chronicles",
+        "chapter": 1,
+        "verses": "1:5-16",
+        "title": "Families Descended from Japheth and Ham",
+        "image_prompt": "An illuminated genealogy scroll branches into Japheth’s sons Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras, and their descendants including Ashkenaz, Riphath, Togarmah, Elishah, Tarshish, Kittim, and Dodanim. A second branch records Ham, Cush, Mizraim, Put, and Canaan, including Nimrod, the families from Mizraim, Canaan’s descendants, and the clans named in the text. Use varied ancient landscapes to suggest the spread of peoples, without modern borders or anachronistic clothing."
+    },
+    {
+        "panel_id": 3,
+        "book": "1 Chronicles",
+        "chapter": 1,
+        "verses": "1:17-27",
+        "title": "Shem’s Line Leads to Abraham",
+        "image_prompt": "A descending parchment lineage lists Shem, Arphaxad, Shelah, Eber, Peleg, Reu, Serug, Nahor, Terah, and Abram, later called Abraham. The chain is made legible by carefully connected names and small generational portraits. The background gradually suggests the towns and pastoral routes of Mesopotamia, while keeping the scroll central and avoiding a fictional scene in which every ancestor is gathered together."
+    },
+    {
+        "panel_id": 4,
+        "book": "1 Chronicles",
+        "chapter": 1,
+        "verses": "1:28-34",
+        "title": "Abraham’s Sons and Isaac’s Family",
+        "image_prompt": "The register distinguishes Abraham’s sons Isaac and Ishmael and also records Keturah’s descendants. Show Ishmael’s twelve named princes in a branching list, then Isaac’s sons Esau and Israel. Use tents, flocks, wells, and arid highlands as restrained background motifs; family branches must remain distinct and names clearly placed on the scroll."
+    },
+    {
+        "panel_id": 5,
+        "book": "1 Chronicles",
+        "chapter": 1,
+        "verses": "1:35-42",
+        "title": "Esau’s Descendants and the Horites",
+        "image_prompt": "A detailed parchment chart records Esau’s sons Eliphaz, Reuel, Jeush, Jaalam, and Korah, their named descendants, and the Horite clans descended from Seir. Small vignettes of hill-country families, flocks, and settlements surround the chart. Keep Esau’s line and Seir’s earlier inhabitants visibly distinct, and avoid depicting the genealogy as one simultaneous gathering."
+    },
+    {
+        "panel_id": 6,
+        "book": "1 Chronicles",
+        "chapter": 1,
+        "verses": "1:43-54",
+        "title": "Kings and Chiefs of Edom",
+        "image_prompt": "The scroll lists Edom’s kings before Israel had a king—Bela, Jobab, Husham, Hadad, Samlah, Shaul, Baal-hanan, and Hadar—then the chiefs of Edom and their regional associations. Use a sequence of small throne and settlement vignettes along red-rock hills. Each ruler appears as a separate chronological entry, not a group of simultaneous kings."
+    },
+    {
+        "panel_id": 7,
+        "book": "1 Chronicles",
+        "chapter": 2,
+        "verses": "2:1-2",
+        "title": "The Twelve Sons of Israel",
+        "image_prompt": "A large family register names Reuben, Simeon, Levi, Judah, Issachar, Zebulun, Dan, Joseph, Benjamin, Naphtali, Gad, and Asher. An aged patriarch is represented symbolically with separate family branches around a parchment, each son’s name clearly labeled. The composition establishes the tribal origins of Israel without adding dialogue or events not in the text."
+    },
+    {
+        "panel_id": 8,
+        "book": "1 Chronicles",
+        "chapter": 2,
+        "verses": "2:3-17",
+        "title": "Judah’s Line Leads to David",
+        "image_prompt": "Follow Judah’s genealogy through Er, Onan, and Shelah; Perez and Zerah; Hezron and Ram; then Nahshon, Salmon, Boaz, Obed, Jesse, and David. Include the other named family heads in the passage. Use successive ancestral portraits beside Bethlehem’s hills, sheepfolds, and stone homes, with David’s name at the end of the lineage as the future king."
+    },
+    {
+        "panel_id": 9,
+        "book": "1 Chronicles",
+        "chapter": 2,
+        "verses": "2:18-24",
+        "title": "Caleb and Hezron’s Households",
+        "image_prompt": "The family tree branches through Caleb son of Hezron, his wives, and descendants, then records Hezron’s broader family, including the lines associated with Azubah, Jerioth, Jesher, Shobab, Ardon, Hur, Ephrath, and Tekoa. Use household vignettes, tents, orchards, and village walls to separate branches; do not invent relationships beyond the recorded genealogy."
+    },
+    {
+        "panel_id": 10,
+        "book": "1 Chronicles",
+        "chapter": 2,
+        "verses": "2:25-41",
+        "title": "Jerahmeel’s Descendants",
+        "image_prompt": "A long family register follows Jerahmeel, firstborn of Hezron, through his sons, grandchildren, the household of Sheshan, and the descendants named to the end of the section. Show a scribe unrolling a wide parchment, with clearly connected generations and modest family scenes of daily life. The written genealogy remains the main visual, preserving the names and family connections."
+    },
+    {
+        "panel_id": 11,
+        "book": "1 Chronicles",
+        "chapter": 2,
+        "verses": "2:42-55",
+        "title": "Caleb’s Clans and Settlements",
+        "image_prompt": "Continue the Judah record through Caleb’s descendants, Hur’s family, the clans connected with Zorah, Eshtaol, Bethlehem, and other named settlements, including scribal and Kenite families connected with Rechab’s house. Show scribes and artisans at work near village gates, and an illustrated map of Judah’s towns on parchment. Avoid reducing the many clans to an anonymous crowd."
+    },
+    {
+        "panel_id": 12,
+        "book": "1 Chronicles",
+        "chapter": 3,
+        "verses": "3:1-9",
+        "title": "David’s Sons and Royal Household",
+        "image_prompt": "A royal genealogy lists David’s sons born in Hebron—Amnon, Daniel (Chileab), Absalom, Adonijah, Shephatiah, and Ithream—and his sons born in Jerusalem, including Shimea, Shobab, Nathan, Solomon, and the remaining names in the text. Tamar is also recorded as David’s daughter. Separate family groupings surround the parchment; do not invent events for people who are only named."
+    },
+    {
+        "panel_id": 13,
+        "book": "1 Chronicles",
+        "chapter": 3,
+        "verses": "3:10-16",
+        "title": "The Kings of Judah from Solomon Onward",
+        "image_prompt": "A succession chart records Solomon, Rehoboam, Abijah, Asa, Jehoshaphat, Jehoram, Ahaziah, Joash, Amaziah, Azariah, Jotham, Ahaz, Hezekiah, Manasseh, Amon, Josiah, and the later royal descendants listed. Sequential throne portraits and changing palace or temple backgrounds signal the passage of generations, with the written lineage kept clear."
+    },
+    {
+        "panel_id": 14,
+        "book": "1 Chronicles",
+        "chapter": 3,
+        "verses": "3:17-24",
+        "title": "David’s Line after the Exile",
+        "image_prompt": "The register follows Jeconiah’s descendants and the later branches of David’s family, including Shealtiel, Pedaiah, Zerubbabel, and the named descendants through the final verse. Show a parchment carried from a Babylonian exile settlement toward a community rebuilding its identity. This is a genealogy, not a dramatized single event; names and line connections must remain central."
+    },
+    {
+        "panel_id": 15,
+        "book": "1 Chronicles",
+        "chapter": 4,
+        "verses": "4:1-8",
+        "title": "Further Families of Judah",
+        "image_prompt": "A wide family chart records the descendants of Judah through Perez, Hezron, Carmi, Hur, Shobal, and the other named family heads. Around the parchment, small vignettes show households, shepherds, craft workers, and village elders from Judah. The design should communicate lineage and communal memory rather than one gathered crowd."
+    },
+    {
+        "panel_id": 16,
+        "book": "1 Chronicles",
+        "chapter": 4,
+        "verses": "4:9-10",
+        "title": "Jabez Prays for Blessing",
+        "image_prompt": "Jabez, described as more honorable than his brothers, stands near his family home and prays that God will bless him, enlarge his territory, keep him from evil, and prevent sorrow. His prayer is written on a parchment beside him. Use a modest village landscape and warm, restrained light; no fantasy effects or unsupported spectacle."
+    },
+    {
+        "panel_id": 17,
+        "book": "1 Chronicles",
+        "chapter": 4,
+        "verses": "4:11-23",
+        "title": "Judahite Clans, Craftsmen, and Royal Workers",
+        "image_prompt": "Depict the many recorded Judahite family branches and named household heads, including families associated with linen work, pottery, and royal service. Show potters at wheels, linen workers, craftsmen, and scribes recording names; note the families living at Netaim and Gederah in service to the king. Preserve the distinction between the genealogical record and the occupations specifically mentioned."
+    },
+    {
+        "panel_id": 18,
+        "book": "1 Chronicles",
+        "chapter": 4,
+        "verses": "4:24-27",
+        "title": "The Sons of Simeon",
+        "image_prompt": "A family tree begins with Simeon’s sons Nemuel, Jamin, Jarib, Zerah, and Shaul, then follows their descendants and household branches. The text notes that Simeon’s family multiplied, though not as greatly as Judah’s. Present the names on a carefully ruled scroll beside pastoral households and dryland farms."
+    },
+    {
+        "panel_id": 19,
+        "book": "1 Chronicles",
+        "chapter": 4,
+        "verses": "4:28-33",
+        "title": "Simeon’s Towns and Villages",
+        "image_prompt": "An illustrated ancient map records Beer-sheba, Moladah, Hazar-shual, Bilhah, Ezem, Tolad, Bethuel, Hormah, Ziklag, Beth-marcaboth, Hazar-susim, Beth-birei, Shaaraim, and the named surrounding villages. Place the towns among dry hills, wells, pasturelands, and roads; use parchment labels rather than modern map symbols or boundaries."
+    },
+    {
+        "panel_id": 20,
+        "book": "1 Chronicles",
+        "chapter": 4,
+        "verses": "4:34-43",
+        "title": "Simeonite Leaders Expand Their Territory",
+        "image_prompt": "The chapter lists Simeonite chiefs and then describes their people seeking wider pasture for growing flocks, attacking the tents of the Meunim, and taking land. A further group travels toward Mount Seir and defeats the remnant of Amalek. Show herds, scouts, desert encampments, and movement across rugged terrain; battles are non-graphic and the emphasis is on migration and settlement."
+    },
+    {
+        "panel_id": 21,
+        "book": "1 Chronicles",
+        "chapter": 5,
+        "verses": "5:1-10",
+        "title": "Reuben’s Line and the Birthright",
+        "image_prompt": "A genealogy records Reuben’s descendants and explains that the firstborn birthright was given to Joseph’s sons because Reuben defiled his father’s bed, while Judah prevailed among his brothers and the ruler came from Judah. Show the family branches of Reuben, Joseph, and Judah clearly annotated on parchment, distinguishing birthright, tribal inheritance, and royal leadership."
+    },
+    {
+        "panel_id": 22,
+        "book": "1 Chronicles",
+        "chapter": 5,
+        "verses": "5:11-17",
+        "title": "The Families of Gad",
+        "image_prompt": "The descendants of Gad are arranged by households and chiefs in Bashan and Gilead. Show Gadite families, herds, and fortified villages east of the Jordan while scribes record the names. The text’s references to Jotham king of Judah and Jeroboam king of Israel appear as chronological notes, not as a claimed meeting of the two rulers."
+    },
+    {
+        "panel_id": 23,
+        "book": "1 Chronicles",
+        "chapter": 5,
+        "verses": "5:18-22",
+        "title": "The Eastern Tribes Defeat the Hagrites",
+        "image_prompt": "The Reubenites, Gadites, and half-tribe of Manasseh muster warriors skilled with shields, swords, and bows against the Hagrites and their allies. They cry to God and receive help; the defeated people’s tents, herds, and goods are recorded. Depict disciplined ranks and a wide ancient battlefield with dust and retreating enemy formations; no graphic injuries, and include a prayerful acknowledgment of God’s help."
+    },
+    {
+        "panel_id": 24,
+        "book": "1 Chronicles",
+        "chapter": 5,
+        "verses": "5:23-26",
+        "title": "Manasseh’s Eastern Clans and Their Exile",
+        "image_prompt": "The half-tribe of Manasseh grows numerous in Bashan, with named family leaders and mighty warriors. Later the eastern tribes prove unfaithful and worship the gods of the land, and the God of Israel stirs up Assyrian kings to carry them into exile. Contrast prosperous settlements with a solemn deportation procession, treating captives with dignity and avoiding graphic suffering."
+    },
+    {
+        "panel_id": 25,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:1-15",
+        "title": "Levi’s Line and the High Priests",
+        "image_prompt": "A long priestly register traces Levi through Kohath, Amram, Aaron, Moses, and Miriam, then follows Aaron’s descendants as high priests through Azariah and Jehozadak, who goes into exile when Jerusalem is taken. Show successive priestly generations beside a scroll; the tabernacle and later temple should be represented as distinct eras, not as one simultaneous setting."
+    },
+    {
+        "panel_id": 26,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:16-30",
+        "title": "The Three Levitical Family Lines",
+        "image_prompt": "The register names Levi’s sons Gershon, Kohath, and Merari and follows their named descendants and clan heads, including families associated with musical service and other Levitical duties. Present three clearly separated family branches with Levites in plain linen garments and service objects. Names and clan divisions are legible and distinct."
+    },
+    {
+        "panel_id": 27,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:31-38",
+        "title": "David Appoints the Temple Singers",
+        "image_prompt": "David appoints singers to serve before the dwelling place after the Ark has been brought to its place. Heman, from Kohath’s line, stands with musicians and singers while the family lines are written around him. Show stringed instruments, cymbals, and a worship assembly; use the tabernacle-era setting and do not introduce later temple architecture."
+    },
+    {
+        "panel_id": 28,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:39-47",
+        "title": "The Families of Asaph and the Other Singers",
+        "image_prompt": "The passage records Asaph’s lineage and the other Levitical musical families descended through the named branches of Gershon, Kohath, and Merari. Show groups of singers and instrumentalists beside their family registers, with scrolls documenting ancestry and service. Do not invent performances for individuals identified only by genealogy."
+    },
+    {
+        "panel_id": 29,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:48-53",
+        "title": "Priests and Levites Have Different Duties",
+        "image_prompt": "The scroll distinguishes Levites assigned to the service of the tabernacle from Aaron’s descendants appointed for priestly service at the altar of burnt offering and the altar of incense. Show priests preparing offerings at the altar and Levites supporting the sanctuary service at a respectful distance, making their different roles visually clear."
+    },
+    {
+        "panel_id": 30,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:54-66",
+        "title": "Cities Assigned to Aaron’s Descendants and Kohathites",
+        "image_prompt": "An illustrated tribal map shows cities and pasturelands assigned to Aaron’s descendants and other Kohathites, including Hebron and the refuge cities, within the territories specified in the text. Small walled towns, pasture strips, and Levite households make clear that the Levites receive cities distributed among the other tribes rather than one contiguous territory."
+    },
+    {
+        "panel_id": 31,
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verses": "6:67-81",
+        "title": "The Remaining Levitical Cities",
+        "image_prompt": "Continue the register of cities and pasturelands allotted to Kohath, Gershon, and Merari across the tribal territories. Show careful place labels on a parchment map, with small town and pasture vignettes. The scene conveys dispersed Levite communities across Israel, preserving the geographic complexity rather than representing the list as one city."
+    },
+    {
+        "panel_id": 32,
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verses": "7:1-5",
+        "title": "Issachar’s Families and Warriors",
+        "image_prompt": "The genealogy lists Tola, Puah, Jashub, and Shimron and their descendants, clan chiefs, and mighty men. Show a parchment register beside a muster of capable warriors and fertile northern valleys, with family heads and recorded numbers arranged in orderly columns."
+    },
+    {
+        "panel_id": 33,
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verses": "7:6-12",
+        "title": "Benjamin’s Clans",
+        "image_prompt": "The descendants of Benjamin are listed through Bela, Becher, Jediael, and their branches, including named household heads and warriors. Show the genealogy in columns beside families in the hill country and a fortified village. Keep these lines distinct from the additional Benjaminite genealogy in chapter 8."
+    },
+    {
+        "panel_id": 34,
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verses": "7:13",
+        "title": "Naphtali’s Sons",
+        "image_prompt": "A compact parchment panel lists Jahziel, Guni, Jezer, and Shallum, the sons of Bilhah associated with Naphtali. A northern highland village and a small family group form a quiet background; the four names remain the clear visual focus."
+    },
+    {
+        "panel_id": 35,
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verses": "7:14-19",
+        "title": "Manasseh’s Descendants",
+        "image_prompt": "The family register follows Manasseh through Asriel and Machir, then records Gilead and the further named descendants, including the family context in which Zelophehad’s daughters are noted elsewhere in the genealogies. Show clans of Manasseh in settlements east and west of the Jordan, with a scribe marking family and inheritance branches."
+    },
+    {
+        "panel_id": 36,
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verses": "7:20-29",
+        "title": "Ephraim’s Family and Settlements",
+        "image_prompt": "The genealogy follows Ephraim through Shuthelah and the named descendants, records the grief associated with Ezer and Elead, and notes Beriah and the line leading to Joshua son of Nun. Ephraimite towns including Bethel and its villages appear on a scroll-map. Use separate family, mourning, and settlement vignettes; handle the tragic episode respectfully."
+    },
+    {
+        "panel_id": 37,
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verses": "7:30-40",
+        "title": "Asher’s Sons and Clan Chiefs",
+        "image_prompt": "Asher’s sons Imnah, Isuah, Ishuai, Beriah, and their sister Serah anchor the lineage, followed by Heber, Malchiel, and further family heads. Show the named clans and their warriors in a northern landscape of orchards, coastal paths, and hill villages, with their recorded numbers noted clearly on the scroll."
+    },
+    {
+        "panel_id": 38,
+        "book": "1 Chronicles",
+        "chapter": 8,
+        "verses": "8:1-28",
+        "title": "Benjamin’s Extensive Genealogy",
+        "image_prompt": "A large lineage chart follows Benjamin’s sons Bela, Ashbel, Aharah, Nohah, Rapha, and their descendants, including the branches through Ehud, Shaharaim, and other named family heads. Show connecting lines across carefully spaced columns and small household portraits from Benjamin’s hill country. The scene reads as a record, not a gathering of all descendants."
+    },
+    {
+        "panel_id": 39,
+        "book": "1 Chronicles",
+        "chapter": 8,
+        "verses": "8:29-32",
+        "title": "The Household of Gibeon",
+        "image_prompt": "The register identifies Jeiel, his wife Maachah, their sons Abdon, Zur, Kish, Baal, Nadab, Gedor, Ahio, Zecher, and Mikloth, and the family’s connection with Gibeon. Show the town gate and a household group beside a clear genealogical scroll, arranged in generations."
+    },
+    {
+        "panel_id": 40,
+        "book": "1 Chronicles",
+        "chapter": 8,
+        "verses": "8:33-40",
+        "title": "Kish, Saul, Jonathan, and Their Descendants",
+        "image_prompt": "The genealogy proceeds through Ner, Kish, Saul, Jonathan, Malchi-shua, Abinadab, Esh-baal, Merib-baal, Micah, and later descendants and mighty men. Show Saul’s family tree with Jonathan’s branch clearly marked and Benjaminite warriors beside the ancestral register. This panel prepares for the royal history of Saul in the next chapter."
+    },
+    {
+        "panel_id": 41,
+        "book": "1 Chronicles",
+        "chapter": 9,
+        "verses": "9:1-9",
+        "title": "The Returnees in Jerusalem",
+        "image_prompt": "The chronicle says Israel was registered by genealogies and Judah was carried to Babylon for unfaithfulness. After the exile, people of Judah, Benjamin, Ephraim, and Manasseh return to Jerusalem. Show families entering a city of partly restored houses and walls while a scribe records household heads and tribal affiliations."
+    },
+    {
+        "panel_id": 42,
+        "book": "1 Chronicles",
+        "chapter": 9,
+        "verses": "9:10-13",
+        "title": "The Priests Serving in Jerusalem",
+        "image_prompt": "The priests named in the record—including Jedaiah, Jehoiarib, Jachin, Azariah, and other family heads—prepare for sacred service. Their fathers’ houses and family numbers appear on a scroll. Set the scene in the restored temple precinct with linen garments, orderly duties, and no invented ritual."
+    },
+    {
+        "panel_id": 43,
+        "book": "1 Chronicles",
+        "chapter": 9,
+        "verses": "9:14-16",
+        "title": "The Levites and Their Families",
+        "image_prompt": "The passage names Levites including Shemaiah, Hashabiah, Bakbakkar, Heresh, Galal, Mattaniah, Obadiah, and Berechiah, with ancestry and musical or attendant roles. Show Levites and musicians in the sanctuary courts, with duty lists and family records."
+    },
+    {
+        "panel_id": 44,
+        "book": "1 Chronicles",
+        "chapter": 9,
+        "verses": "9:17-27",
+        "title": "Gatekeepers Guard the House of God",
+        "image_prompt": "The gatekeepers include Shallum and his relatives, with assigned gates and inherited responsibilities. Show watchmen at the temple entrances by day and night, tending doors and keeping the precinct orderly. The composition communicates a trusted office passed through families, not a military battle."
+    },
+    {
+        "panel_id": 45,
+        "book": "1 Chronicles",
+        "chapter": 9,
+        "verses": "9:28-34",
+        "title": "The Levites’ Daily Duties",
+        "image_prompt": "Levites care for vessels, flour, wine, oil, frankincense, spices, and other materials; some bake showbread while singers serve in chambers near the sanctuary. Show measured vessels, bread tables, shelves, duty rosters, and different work groups. Keep Levites’ practical support duties distinct from the priests’ altar service."
+    },
+    {
+        "panel_id": 46,
+        "book": "1 Chronicles",
+        "chapter": 9,
+        "verses": "9:35-44",
+        "title": "Saul’s Genealogy Recalled",
+        "image_prompt": "The Gibeonite family register is repeated, tracing Jeiel and Maachah through Ner, Kish, Saul, Jonathan, and their descendants. Show the parchment beside an old Benjaminite household and subdued royal insignia, connecting the returnee records with Israel’s first king without implying the royal family still rules."
+    },
+    {
+        "panel_id": 47,
+        "book": "1 Chronicles",
+        "chapter": 10,
+        "verses": "10:1-14",
+        "title": "Saul’s Defeat and the End of His Reign",
+        "image_prompt": "On Mount Gilboa, Israel is defeated by the Philistines; Saul’s sons Jonathan, Abinadab, and Malchi-shua fall, and Saul is wounded. The text says Saul asks his armor-bearer to kill him, but the armor-bearer refuses, after which Saul falls on his own sword. Keep the death non-graphic and tragic. The Philistines take his weapons and display his armor, while courageous men of Jabesh-gilead retrieve and bury the bodies. Close on the chronicler’s explanation: Saul died for unfaithfulness, and the kingdom was turned to David."
+    },
+    {
+        "panel_id": 48,
+        "book": "1 Chronicles",
+        "chapter": 11,
+        "verses": "11:1-9",
+        "title": "David Is Crowned and Captures Jerusalem",
+        "image_prompt": "All Israel gathers at Hebron and anoints David king according to the LORD’s word. David and his men take Jerusalem, the Jebusite stronghold; Joab leads the capture and becomes chief. Show the public anointing among tribal elders, a fortified hill city, and David establishing the City of David. The visual suggests David growing in strength because the LORD is with him."
+    },
+    {
+        "panel_id": 49,
+        "book": "1 Chronicles",
+        "chapter": 11,
+        "verses": "11:10-19",
+        "title": "The Mighty Men and Bethlehem’s Well",
+        "image_prompt": "The text honors David’s mighty warriors, including Jashobeam and Eleazar. Three warriors break through the Philistine camp to draw water from Bethlehem’s well for David, but he refuses to drink it and pours it out to the LORD because he values their lives. Show the dangerous journey as a non-graphic military vignette and David pouring water onto the ground in solemn gratitude."
+    },
+    {
+        "panel_id": 50,
+        "book": "1 Chronicles",
+        "chapter": 11,
+        "verses": "11:20-25",
+        "title": "Abishai and Benaiah’s Feats",
+        "image_prompt": "Abishai becomes chief of the three; Benaiah son of Jehoiada is known for extraordinary deeds, including defeating two Moabite warriors, killing a lion in a pit on a snowy day, and overcoming a formidable Egyptian with his own spear. Present separate small action vignettes with restrained, non-graphic combat, grounded clothing, and historically plausible weapons."
+    },
+    {
+        "panel_id": 51,
+        "book": "1 Chronicles",
+        "chapter": 11,
+        "verses": "11:26-47",
+        "title": "The Wider Company of David’s Warriors",
+        "image_prompt": "The chronicler names additional mighty men from many towns and tribes, including Asahel, Elhanan, and Uriah the Hittite. Show a wide muster of captains and soldiers from different regions, each connected to a name on a roster. Do not invent deeds for warriors whose entries only give names; the focus is the breadth of David’s loyal company."
+    },
+    {
+        "panel_id": 52,
+        "book": "1 Chronicles",
+        "chapter": 12,
+        "verses": "12:1-22",
+        "title": "Warriors Join David at Ziklag",
+        "image_prompt": "Warriors from Benjamin and Judah come to David while he is restricted to Ziklag. Show archers, slingers, men carrying shields and spears, and Amasai speaking under the Spirit that they have come in peace and will help David. The atmosphere is tense but hopeful, conveying uncertain allegiance and loyalty without inventing a battle."
+    },
+    {
+        "panel_id": 53,
+        "book": "1 Chronicles",
+        "chapter": 12,
+        "verses": "12:23-37",
+        "title": "Tribal Forces Gather at Hebron",
+        "image_prompt": "A large assembly comes to Hebron to turn Saul’s kingdom over to David according to the LORD’s word. The record lists forces from Judah, Simeon, Levi, Aaron’s family, Benjamin, Ephraim, Manasseh, Issachar, Zebulun, Naphtali, Dan, Asher, and the eastern tribes. Show tribal groups arriving with provisions, banners, and equipment, with their separate numbers recorded on parchment."
+    },
+    {
+        "panel_id": 54,
+        "book": "1 Chronicles",
+        "chapter": 12,
+        "verses": "12:38-40",
+        "title": "All Israel Feasts in Unity",
+        "image_prompt": "Warriors arrive with undivided hearts, remain three days, and celebrate because their kin have prepared food. Show a vast but orderly feast at Hebron, shared bread and meat, music, and tribal representatives greeting one another. The mood is joyful and communal, conveying national unity rather than a modern banquet."
+    },
+    {
+        "panel_id": 55,
+        "book": "1 Chronicles",
+        "chapter": 13,
+        "verses": "13:1-8",
+        "title": "David Plans to Bring the Ark",
+        "image_prompt": "David consults captains and the congregation about bringing the Ark of God back, since it had not been sought during Saul’s reign. The people agree and gather at Kirjath-jearim, placing the Ark on a new cart with singers and instruments. Depict the Ark as a gold-covered chest with a mercy seat and two hammered-gold cherubim at opposite ends, facing inward with wings overshadowing the mercy seat."
+    },
+    {
+        "panel_id": 56,
+        "book": "1 Chronicles",
+        "chapter": 13,
+        "verses": "13:9-14",
+        "title": "Uzza and the House of Obed-edom",
+        "image_prompt": "At the threshing floor, the oxen stumble and Uzza reaches out to steady the Ark; he is struck down for touching it. David is distressed and afraid, so the Ark is taken to Obed-edom’s house for three months, and his household is blessed. Keep the death non-graphic and reverent, emphasizing the halted procession, David’s fear, and the seriousness of treating the holy Ark according to God’s command."
+    },
+    {
+        "panel_id": 57,
+        "book": "1 Chronicles",
+        "chapter": 14,
+        "verses": "14:1-7",
+        "title": "David’s House Is Established",
+        "image_prompt": "Hiram king of Tyre sends messengers, cedar timber, masons, and carpenters to build David a house. David recognizes that the LORD has established him as king for Israel’s sake. The chapter lists David’s sons born in Jerusalem. Show palace construction with Phoenician craftsmen, cedar beams, stonework, and a family register inside the residence."
+    },
+    {
+        "panel_id": 58,
+        "book": "1 Chronicles",
+        "chapter": 14,
+        "verses": "14:8-17",
+        "title": "David Defeats the Philistines",
+        "image_prompt": "The Philistines attack after hearing David is king. David inquires of God and wins at Baal-perazim; the Philistines abandon their idols, which are burned. In a later battle, God directs David to circle behind the enemy near the balsam trees and advance after a sound in the treetops. Depict two distinct campaigns with strategic movement and non-graphic victories."
+    },
+    {
+        "panel_id": 59,
+        "book": "1 Chronicles",
+        "chapter": 15,
+        "verses": "15:1-15",
+        "title": "David Prepares a Proper Place for the Ark",
+        "image_prompt": "David prepares a tent for the Ark and explains that only Levites may carry it, because the LORD chose them and the earlier attempt did not follow the prescribed order. Priests and Levites sanctify themselves, and family leaders assemble. Show carrying poles, clean garments, careful preparation, and a solemn acknowledgment of the earlier mistake."
+    },
+    {
+        "panel_id": 60,
+        "book": "1 Chronicles",
+        "chapter": 15,
+        "verses": "15:16-24",
+        "title": "Levite Musicians and Priests Are Appointed",
+        "image_prompt": "David instructs the Levite chiefs to appoint singers and musicians with harps, psalteries, cymbals, and trumpets. Heman, Asaph, Ethan, named musicians, gatekeepers, and priests each receive distinct roles. Show the organized processional groups with their instruments and the Ark carried on Levites’ shoulders, not placed on a cart."
+    },
+    {
+        "panel_id": 61,
+        "book": "1 Chronicles",
+        "chapter": 15,
+        "verses": "15:25-29",
+        "title": "The Ark Enters Jerusalem",
+        "image_prompt": "David, elders, and captains bring the Ark from Obed-edom’s house with rejoicing and offerings. The Levites carry it while David dances before the LORD wearing a linen ephod. Michal watches from a window and despises him in her heart. Show the procession entering the City of David and Michal’s distant disapproving gaze. The Ark’s cherubim face each other over the mercy seat; do not add clasped hands as a biblical detail."
+    },
+    {
+        "panel_id": 62,
+        "book": "1 Chronicles",
+        "chapter": 16,
+        "verses": "16:1-7",
+        "title": "The Ark Is Set in Its Tent",
+        "image_prompt": "The Ark is placed in the tent David prepared; burnt and peace offerings are made, and David blesses the people in the LORD’s name. He distributes bread, meat, and raisin cakes to all Israel, men and women. Show the sanctuary tent, priests at work, and families receiving food in a public celebration."
+    },
+    {
+        "panel_id": 63,
+        "book": "1 Chronicles",
+        "chapter": 16,
+        "verses": "16:8-36",
+        "title": "David’s Song of Thanksgiving",
+        "image_prompt": "Asaph and his brethren lead thanksgiving. The song urges Israel to give thanks, remember God’s covenant with Abraham, Isaac, and Jacob, seek the LORD, declare His glory among nations, and let creation rejoice. Show singers and musicians before the Ark as the assembly responds; an open scroll carries a few short phrases rather than a full long text. The atmosphere is reverent and communal."
+    },
+    {
+        "panel_id": 64,
+        "book": "1 Chronicles",
+        "chapter": 16,
+        "verses": "16:37-43",
+        "title": "Worship Is Organized at Jerusalem and Gibeon",
+        "image_prompt": "David leaves Asaph and his brethren to minister regularly before the Ark, while Zadok and the priests serve at the altar in Gibeon with daily sacrifices. Other Levites give thanks and praise; then the people go home and David returns to bless his household. Show two distinct worship sites and clearly assigned duties."
+    },
+    {
+        "panel_id": 65,
+        "book": "1 Chronicles",
+        "chapter": 17,
+        "verses": "17:1-15",
+        "title": "Nathan Announces God’s Covenant with David",
+        "image_prompt": "David lives in a cedar house and tells Nathan the Ark remains under curtains. Nathan first encourages him, but God’s message declares David will not build the house; instead, God will establish David’s house and raise a descendant whose kingdom will be established. Show Nathan speaking to David in a royal chamber and later delivering the oracle. The future Temple is a promise, not a completed building."
+    },
+    {
+        "panel_id": 66,
+        "book": "1 Chronicles",
+        "chapter": 17,
+        "verses": "17:16-22",
+        "title": "David Prays in Humility",
+        "image_prompt": "David sits before the LORD, admitting his unworthiness and marveling at the promise to his house. He declares that there is none like the LORD and no nation like Israel, whom God redeemed and made His people. Show the king’s royal symbols set aside as he prays near the sanctuary tent, with attendants at a respectful distance."
+    },
+    {
+        "panel_id": 67,
+        "book": "1 Chronicles",
+        "chapter": 17,
+        "verses": "17:23-27",
+        "title": "David Asks God to Fulfill His Promise",
+        "image_prompt": "David asks that the LORD’s promise concerning his house be established forever and that God’s name be magnified. The prayer ends with confidence that God has blessed his house. Show David rising from prayer beside the Ark’s tent, warm lamplight on scrolls and sacred furnishings, conveying quiet faith rather than spectacle."
+    },
+    {
+        "panel_id": 68,
+        "book": "1 Chronicles",
+        "chapter": 18,
+        "verses": "18:1-8",
+        "title": "David’s Victories over Neighboring Nations",
+        "image_prompt": "David defeats the Philistines and takes Gath and its surrounding towns, subdues Moab, and defeats Hadadezer of Zobah near Hamath. Israel captures chariots, horsemen, and bronze. Show linked campaign vignettes across fortified gates and open terrain, with orderly troops and captured equipment. Battles remain non-graphic and each campaign is visually distinct."
+    },
+    {
+        "panel_id": 69,
+        "book": "1 Chronicles",
+        "chapter": 18,
+        "verses": "18:9-17",
+        "title": "Tribute, Dedication, and Royal Administration",
+        "image_prompt": "Toi king of Hamath sends his son Joram with gifts after David defeats their common enemy. David dedicates silver, gold, and bronze from conquered peoples to the LORD. Joab commands the army, Jehoshaphat records events, Zadok and Ahimelech serve as priests, Seraiah is scribe, and David’s sons serve as chief officers. Show tribute weighed and recorded, dedicated treasure set aside, and a functioning royal administration."
+    },
+    {
+        "panel_id": 70,
+        "book": "1 Chronicles",
+        "chapter": 19,
+        "verses": "19:1-7",
+        "title": "Hanun Humiliates David’s Messengers",
+        "image_prompt": "After the Ammonite king dies, David sends comforters to Hanun, but advisers accuse them of spying. Hanun shaves half their beards and cuts their garments, sending them away in humiliation. David tells them to remain at Jericho until their beards grow back. Show the messengers returning ashamed but safe, David responding compassionately, and the Ammonites hiring Syrian forces."
+    },
+    {
+        "panel_id": 71,
+        "book": "1 Chronicles",
+        "chapter": 19,
+        "verses": "19:8-19",
+        "title": "Joab and Abishai Defeat the Ammonites and Syrians",
+        "image_prompt": "Joab sees enemy troops in front and behind, assigns Israel’s best men against Syria, and tells Abishai to support him against Ammon. They encourage each other to be strong and trust the LORD. The Syrians flee; Ammon retreats, and a later Syrian force is also defeated by David. Show tactical positioning, shield lines, chariots, and the enemy retreating, without graphic casualties."
+    },
+    {
+        "panel_id": 72,
+        "book": "1 Chronicles",
+        "chapter": 20,
+        "verses": "20:1-8",
+        "title": "Rabbah Falls and Philistine Giants Are Defeated",
+        "image_prompt": "Joab besieges Rabbah and captures it; David receives the crown from its king and takes spoil. The remaining verses recount battles with Philistine giants, including a warrior with six fingers on each hand and six toes on each foot, and a large man from Gath killed by Jonathan son of Shimea, David’s brother. Show Rabbah’s fortified gates falling and separate giant-warrior encounters as restrained, non-graphic vignettes."
+    },
+    {
+        "panel_id": 73,
+        "book": "1 Chronicles",
+        "chapter": 21,
+        "verses": "21:1-8",
+        "title": "David Orders a Census and Repents",
+        "image_prompt": "Satan rises against Israel and incites David to number the people. Joab objects, but David’s command stands; the census is counted across Israel and Judah. David is later troubled and confesses his sin. Show the royal command, officers with written tallies, messengers crossing the land, and David in solitude recognizing the seriousness of the act."
+    },
+    {
+        "panel_id": 74,
+        "book": "1 Chronicles",
+        "chapter": 21,
+        "verses": "21:9-17",
+        "title": "David Chooses Judgment and Pleads for Mercy",
+        "image_prompt": "Gad the seer offers David three possible judgments. David chooses to fall into the LORD’s hands because His mercies are great. A plague comes; David sees the angel of the LORD between earth and heaven with a drawn sword over Jerusalem and asks that the people be spared. Show the angel as awe-inspiring and restrained, with no graphic death imagery, centering David’s intercession."
+    },
+    {
+        "panel_id": 75,
+        "book": "1 Chronicles",
+        "chapter": 21,
+        "verses": "21:18-27",
+        "title": "The Threshing Floor of Ornan",
+        "image_prompt": "The angel directs David through Gad to build an altar at Ornan’s threshing floor. Ornan offers the site and oxen, but David insists on paying full price. David builds the altar and presents offerings; the LORD answers by fire from heaven. Show the threshing floor, oxen, sledges, purchase transaction, altar, and reverent supernatural flame."
+    },
+    {
+        "panel_id": 76,
+        "book": "1 Chronicles",
+        "chapter": 21,
+        "verses": "21:28-30",
+        "title": "David Worships at the Chosen Site",
+        "image_prompt": "David continues offering sacrifices at Ornan’s threshing floor because he is afraid to approach the tabernacle and altar at Gibeon while the angel’s sword remains a threat. Show David worshipping at the future Temple site with Jerusalem visible below, the scene pointing toward Solomon’s later construction without implying the Temple already stands."
+    },
+    {
+        "panel_id": 77,
+        "book": "1 Chronicles",
+        "chapter": 22,
+        "verses": "22:1-5",
+        "title": "David Prepares the Temple Site and Materials",
+        "image_prompt": "David declares that the house of the LORD and the altar for Israel will be built at the threshing floor. Foreign residents are gathered to prepare stone; hewn stones, iron, bronze, and abundant cedar are assembled. Show quarrymen, timber stacks from Lebanon, bronze supplies, and plans at a broad worksite. David acknowledges that Solomon is young and the house must be magnificent."
+    },
+    {
+        "panel_id": 78,
+        "book": "1 Chronicles",
+        "chapter": 22,
+        "verses": "22:6-19",
+        "title": "David Charges Solomon and Israel’s Leaders",
+        "image_prompt": "David tells Solomon that God has chosen him to build the Temple, while David himself has fought many wars. He provides materials and urges Solomon to seek the LORD, keep His law, and be courageous. David also commands Israel’s leaders to help, with the nation called to set its heart on seeking God. Show David handing plans and materials to Solomon as leaders gather to accept their responsibilities."
+    },
+    {
+        "panel_id": 79,
+        "book": "1 Chronicles",
+        "chapter": 23,
+        "verses": "23:1-6",
+        "title": "David Organizes the Levites",
+        "image_prompt": "When David is old, he makes Solomon king and gathers Israel’s leaders and Levites. The Levites are numbered and divided into families descending from Gershon, Kohath, and Merari. Show the assembly with clan standards and written census records, grouped by family rather than as an indistinct mass."
+    },
+    {
+        "panel_id": 80,
+        "book": "1 Chronicles",
+        "chapter": 23,
+        "verses": "23:7-23",
+        "title": "The Gershonite, Kohathite, and Merarite Families",
+        "image_prompt": "The record lists the family heads of Gershon, Kohath, and Merari, including Ladan, Shimei, Amram, Izhar, Hebron, Uzziel, Mahli, and Mushi and their descendants. Show three clear family branches on a large chart beside Levites in linen garments. Names and clan divisions must be legible and no unrelated duty is assigned to a named person without textual support."
+    },
+    {
+        "panel_id": 81,
+        "book": "1 Chronicles",
+        "chapter": 23,
+        "verses": "23:24-32",
+        "title": "The Levites’ Temple-Era Duties",
+        "image_prompt": "The Levites are registered from age twenty upward to serve the house of the LORD, assist Aaron’s descendants, care for courts and chambers, purify holy things, prepare showbread and offerings, and praise God morning and evening, on Sabbaths, new moons, and appointed feasts. Show duty rosters, bread tables, vessels, and separate work groups, keeping priestly altar service distinct from Levite support duties."
+    },
+    {
+        "panel_id": 82,
+        "book": "1 Chronicles",
+        "chapter": 24,
+        "verses": "24:1-19",
+        "title": "The Twenty-Four Priestly Divisions",
+        "image_prompt": "Aaron’s descendants are divided into priestly courses under Zadok and Ahimelech. Lots assign twenty-four divisions, with the names of each house and order recorded carefully. Show priests drawing lots before officials, the sequence written on parchment, and each family head standing by his assigned division. The scene communicates organized service and fair assignment, not a single sacrificial event."
+    },
+    {
+        "panel_id": 83,
+        "book": "1 Chronicles",
+        "chapter": 24,
+        "verses": "24:20-31",
+        "title": "The Remaining Levitical Divisions",
+        "image_prompt": "The passage records additional Levitical family heads and descendants and assigns their courses by lot, with younger brothers included alongside older family members. Show the Levites waiting in orderly rows while a scribe records the results and clan elders verify names. The mood is administrative, careful, and reverent."
+    },
+    {
+        "panel_id": 84,
+        "book": "1 Chronicles",
+        "chapter": 25,
+        "verses": "25:1-7",
+        "title": "David Appoints the Temple Musicians",
+        "image_prompt": "David and the captains separate the sons of Asaph, Heman, and Jeduthun for musical service; they prophesy with harps, psalteries, and cymbals. Their sons and brothers are trained for singing in the house of God. Show the three principal musical families with instruments and leaders preparing together, each group distinct."
+    },
+    {
+        "panel_id": 85,
+        "book": "1 Chronicles",
+        "chapter": 25,
+        "verses": "25:8-31",
+        "title": "Lots Assign the Singers’ Rotations",
+        "image_prompt": "The musicians cast lots for service without distinction between young and old, teacher and pupil. The record names the leaders of twenty-four groups, including Joseph, Gedaliah, Zaccur, Izri, Nethaniah, Bukkiah, Jesharelah, Jeshaiah, Mattaniah, Shimei, Azareel, Hashabiah, Shubael, Mattithiah, Jeremoth, Hananiah, Mallothi, Eliathah, Hothir, and the others recorded. Show a numbered scroll and musicians in separate rows with harps, lyres, and cymbals, making the orderly rotation clear."
+    },
+    {
+        "panel_id": 86,
+        "book": "1 Chronicles",
+        "chapter": 26,
+        "verses": "26:1-19",
+        "title": "The Gatekeepers and Their Assignments",
+        "image_prompt": "The gatekeeper divisions include Meshelemiah, Obed-edom and his sons, and Hosah with his family. Their sons and brothers are described as capable men entrusted with the gates. Show Levite gatekeepers at temple entrances, door bars and watch stations, with names and assignments on a roster."
+    },
+    {
+        "panel_id": 87,
+        "book": "1 Chronicles",
+        "chapter": 26,
+        "verses": "26:20-28",
+        "title": "Treasurers and Sacred Storehouses",
+        "image_prompt": "Levite families oversee the treasuries of God’s house and dedicated treasures, including gifts dedicated by David, Samuel, Saul, Abner, and Joab. Show secure store chambers with metal vessels, wrapped offerings, inventory tablets, and trusted keepers checking records. The mood is careful stewardship, not commercial trade."
+    },
+    {
+        "panel_id": 88,
+        "book": "1 Chronicles",
+        "chapter": 26,
+        "verses": "26:29-32",
+        "title": "Officers, Judges, and Administrators",
+        "image_prompt": "Chenaniah and other Levites serve as officers and judges outside the temple, while Hashabiah and his brethren supervise matters west of the Jordan and Jerijah’s relatives serve east of it. Show regional administrators hearing disputes and reviewing records at a town council, emphasizing public responsibility, fair judgment, and national organization."
+    },
+    {
+        "panel_id": 89,
+        "book": "1 Chronicles",
+        "chapter": 27,
+        "verses": "27:1-15",
+        "title": "The Twelve Monthly Military Divisions",
+        "image_prompt": "The kingdom’s military service is organized into twelve divisions, one serving each month, each numbering twenty-four thousand men. Commanders named in the text—including Jashobeam, Dodai, Benaiah, Asahel, Shamhuth, Ira, Helez, Sibbecai, Abiezer, Maharai, Benaiah the Pirathonite, and Heldai—appear beside their rostered troops. Show a rotating calendar of duty rather than all divisions permanently gathered together."
+    },
+    {
+        "panel_id": 90,
+        "book": "1 Chronicles",
+        "chapter": 27,
+        "verses": "27:16-34",
+        "title": "Tribal Leaders and Royal Officers",
+        "image_prompt": "The chapter records tribal leaders, officers over royal storehouses, fields, vineyards, olive groves, herds, camels, donkeys, and flocks, plus counselors and commanders. David does not complete the census because the LORD’s wrath had come upon Israel. Show an administrative map, agricultural stores, herds, and court officials, with names and responsibilities written in separate columns."
+    },
+    {
+        "panel_id": 91,
+        "book": "1 Chronicles",
+        "chapter": 28,
+        "verses": "28:1-8",
+        "title": "David Addresses Israel’s Leaders",
+        "image_prompt": "David summons Israel’s princes, tribal captains, officers, mighty men, and royal sons to Jerusalem. He explains that he wanted to build a house for the Ark but God chose Solomon to build it. David charges Israel to keep the LORD’s commandments so that they may possess the land and pass it on to their children. Show the great assembly, David addressing the leaders, and Solomon standing nearby."
+    },
+    {
+        "panel_id": 92,
+        "book": "1 Chronicles",
+        "chapter": 28,
+        "verses": "28:9-18",
+        "title": "David Gives Solomon the Temple Plan",
+        "image_prompt": "David tells Solomon to know and serve God with a perfect heart and willing mind, because the LORD searches hearts. He gives plans for the porch, chambers, treasuries, upper rooms, inner chambers, lampstands, tables, vessels, and the mercy seat. Show detailed architectural scrolls and small sanctuary models. Depict the Ark’s two golden cherubim with wings extended over the mercy seat, distinct from the much larger olivewood cherubim later placed in Solomon’s sanctuary."
+    },
+    {
+        "panel_id": 93,
+        "book": "1 Chronicles",
+        "chapter": 28,
+        "verses": "28:19-21",
+        "title": "David Encourages Solomon and the Workers",
+        "image_prompt": "David says the plan was given in writing by the LORD’s hand and urges Solomon to be strong and courageous, not afraid, because God will not fail him until the work is finished. Priests, Levites, skilled craftsmen, and leaders are ready to help. Show David encouraging Solomon beside the plans, with workers and temple servants assembled in readiness."
+    },
+    {
+        "panel_id": 94,
+        "book": "1 Chronicles",
+        "chapter": 29,
+        "verses": "29:1-9",
+        "title": "The People Give Generously for the Temple",
+        "image_prompt": "David explains that Solomon is young and the work great because the Temple is for the LORD. David gives gold, silver, bronze, iron, and precious stones from his own resources; leaders and people also contribute willingly and rejoice. Show measured treasure, precious stones, leaders offering gifts, and a joyful assembly. These are voluntary offerings, not forced tribute."
+    },
+    {
+        "panel_id": 95,
+        "book": "1 Chronicles",
+        "chapter": 29,
+        "verses": "29:10-20",
+        "title": "David’s Prayer and the People’s Worship",
+        "image_prompt": "David blesses the LORD, declaring that greatness, power, glory, victory, and majesty belong to God and that everything comes from Him. He prays for continued faithfulness and for the people’s willing gifts to remain acceptable. The assembly blesses the LORD, bows, and worships. Show David praying, leaders and people bowed in reverence, and the collected gifts prepared for the Temple."
+    },
+    {
+        "panel_id": 96,
+        "book": "1 Chronicles",
+        "chapter": 29,
+        "verses": "29:21-25",
+        "title": "Solomon Is Confirmed as King",
+        "image_prompt": "The people offer sacrifices and feast before the LORD. Solomon is made king a second time and anointed ruler, while Zadok is anointed priest. God magnifies Solomon with royal majesty beyond the other kings of Israel. Show Solomon in royal garments and crown with priests, elders, and the celebrating assembly, conveying a peaceful transition."
+    },
+    {
+        "panel_id": 97,
+        "book": "1 Chronicles",
+        "chapter": 29,
+        "verses": "29:26-30",
+        "title": "David’s Reign and Death",
+        "image_prompt": "David’s reign lasted forty years—seven in Hebron and thirty-three in Jerusalem. He dies in a good old age, full of days, riches, and honor, and Solomon succeeds him. The record refers to the acts of David and to the chronicles of Samuel, Nathan, and Gad. Show aged David’s final days, a dignified royal funeral, and Solomon’s court preparing for the future; do not invent unrecorded details."
+    }
+]

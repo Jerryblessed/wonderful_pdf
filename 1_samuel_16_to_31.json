@@ -1,0 +1,552 @@
+[
+    {
+        "panel_id": 1,
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verses": "16:1-3",
+        "title": "Samuel Sent to Bethlehem",
+        "image_prompt": "Aged prophet Samuel in Ramah, wearing a modest travel mantle and holding a carved horn of anointing oil, setting out along a dry, dusty Judean mountain trail toward Bethlehem leading a young brown heifer on a woven rope, his face thoughtful and resolute under soft morning sunlight."
+    },
+    {
+        "panel_id": 2,
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verses": "16:4-5",
+        "title": "Bethlehem Receives the Prophet",
+        "image_prompt": "Limestone entrance of ancient Bethlehem: town elders approaching cautiously with lowered heads and humble gestures before Prophet Samuel, who raises an olive branch and his wooden staff in a calm greeting of peace, welcoming Jesse and his sons in clean ceremonial linen garments to the sacrifice."
+    },
+    {
+        "panel_id": 3,
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verses": "16:6-7",
+        "title": "The Lord Looks on the Heart",
+        "image_prompt": "Assembly courtyard in Bethlehem: tall, handsome Eliab standing proudly in warrior attire before Prophet Samuel; Samuel pauses with the ram's horn lowered, his weathered face filled with thoughtful reverence as he listens to the quiet voice of God, looking beyond outward stature to the inner heart under warm sunbeams."
+    },
+    {
+        "panel_id": 4,
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verses": "16:8-11",
+        "title": "Jesse's Sons Pass Before Samuel",
+        "image_prompt": "Ancient stone room: seven older sons of Jesse standing in an orderly line as Samuel gently shakes his head, indicating none of these has been chosen by the Lord; Jesse gestures respectfully toward the doorway and the distant rolling pastures where his youngest son tends the sheep."
+    },
+    {
+        "panel_id": 5,
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verses": "16:12-13",
+        "title": "David is Anointed by Samuel",
+        "image_prompt": "Sacred anointing scene: youthful David, a ruddy, bright-eyed shepherd boy with wavy brown hair in a simple modest wool tunic and leather sandals, kneeling with bowed head in the sunlit stone courtyard; Prophet Samuel pours golden olive oil from the horn over David's head, surrounded by his astonished older brothers."
+    },
+    {
+        "panel_id": 6,
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verses": "16:14-18",
+        "title": "Saul Seeks a Musician",
+        "image_prompt": "Dimly lit royal stone chamber in Gibeah: troubled King Saul seated on a carved wooden throne with his head resting heavily in his hand in deep emotional distress; faithful royal attendants speak with quiet respect, gesturing toward an ancient wooden ten-stringed harp/lyre as a remedy of peace."
+    }
+
+
+
+    ,
+        {
+            "panel_id": 7,
+            "book": "1 Samuel",
+            "chapter": 16,
+            "verses": "16:19-23",
+            "title": "David Plays the Lyre Before King Saul",
+            "image_prompt": "Warmly lit stone palace chamber in Gibeah: youthful shepherd David seated gracefully on a low stool, gently plucking the resonant strings of his wooden ten-stringed lyre, bringing visible peace and emotional relief to troubled King Saul who rests back upon his carved wooden throne."
+        },
+        {
+            "panel_id": 8,
+            "book": "1 Samuel",
+            "chapter": 17,
+            "verses": "17:1-11",
+            "title": "Goliath Challenges the Armies of Israel",
+            "image_prompt": "Valley of Elah under morning sunlight: the Philistine champion Goliath of Gath, a colossal armored warrior towering nine feet tall in a bronze coat of mail and bronze helmet, standing boldly between the two mountain ridges, shouting defiance across the dry brook toward the fearful ranks of Israel."
+        },
+        {
+            "panel_id": 9,
+            "book": "1 Samuel",
+            "chapter": 17,
+            "verses": "17:12-24",
+            "title": "David Arrives at the Battle Camp",
+            "image_prompt": "Perimeter of the Israelite military encampment: young David arriving beside the baggage wagons leading a pack donkey laden with roasted grain, ten loaves of bread, and ten round cheeses for his older brothers, watching in alarm as the army lines shout for battle."
+        },
+        {
+            "panel_id": 10,
+            "book": "1 Samuel",
+            "chapter": 17,
+            "verses": "17:25-37",
+            "title": "David Before King Saul",
+            "image_prompt": "Royal pavilion tent: young David standing confident and humble before King Saul, gesturing with his hand as he recounts how the Lord delivered him from the paw of the lion and the bear while tending his father's sheep, persuading Saul to let him go against the Philistine."
+        },
+        {
+            "panel_id": 11,
+            "book": "1 Samuel",
+            "chapter": 17,
+            "verses": "17:38-44",
+            "title": "Five Smooth Stones from the Brook",
+            "image_prompt": "Dry riverbed in the Valley of Elah: David setting aside King Saul's heavy bronze armor and helmet, kneeling in his simple shepherd's tunic beside the water to carefully select five smooth white river stones, placing them into his leather shepherd's pouch with his wooden staff and sling in hand."
+        },
+        {
+            "panel_id": 12,
+            "book": "1 Samuel",
+            "chapter": 17,
+            "verses": "17:45-51",
+            "title": "David's Triumph Over Goliath",
+            "image_prompt": "Climactic moment of faith: David running boldly forward into the open valley with leather sling whirling overhead, crying out that he comes in the name of the Lord of Hosts; the giant Goliath stumbling forward and falling facedown upon the earth in complete defeat."
+        },
+        {
+            "panel_id": 13,
+            "book": "1 Samuel",
+            "chapter": 17,
+            "verses": "17:52-58",
+            "title": "Israel Pursues the Philistines",
+            "image_prompt": "Triumphant battlefield scene: the armies of Israel and Judah shouting with victorious joy as they charge across the valley pursuing the fleeing Philistines toward Shaaraim, while young David is brought before King Saul and general Abner holding Goliath's massive bronze helmet in testimony."
+        },
+        {
+            "panel_id": 14,
+            "book": "1 Samuel",
+            "chapter": 18,
+            "verses": "18:1-5",
+            "title": "The Covenant of Jonathan and David",
+            "image_prompt": "Palace tent in Gibeah: Prince Jonathan lovingly presenting his own royal purple robe, military tunic, bronze sword, bow, and ornate belt to young David in a sacred brotherly covenant of lifelong friendship."
+        },
+        {
+            "panel_id": 15,
+            "book": "1 Samuel",
+            "chapter": 18,
+            "verses": "18:6-11",
+            "title": "Saul's Jealousy Kindled by the Song",
+            "image_prompt": "Gibeah city gates: Hebrew women in modest festive linen robes playing timbrels and dancing, singing: 'Saul hath slain his thousands, and David his ten thousands', while King Saul looks on from his royal chariot with dark, brooding jealousy in his eyes."
+        },
+        {
+            "panel_id": 16,
+            "book": "1 Samuel",
+            "chapter": 18,
+            "verses": "18:12-16",
+            "title": "David Behaves Wisely in All His Ways",
+            "image_prompt": "City streets of Gibeah: David leading a disciplined company of a thousand soldiers through the stone gate, loved by all the people of Israel and Judah for his wise, humble, and honorable conduct."
+        },
+        {
+            "panel_id": 17,
+            "book": "1 Samuel",
+            "chapter": 18,
+            "verses": "18:17-27",
+            "title": "David Wins Michal as Wife",
+            "image_prompt": "Royal court of Saul: David and his loyal captains returning safely from military campaigns along the border, presenting royal tribute to King Saul as Saul's loving daughter Michal looks on with affection from a shadowed palace archway."
+        },
+        {
+            "panel_id": 18,
+            "book": "1 Samuel",
+            "chapter": 18,
+            "verses": "18:28-30",
+            "title": "David's Name Much Set By",
+            "image_prompt": "Royal council chamber: King Saul watching from his throne with deepening fear and suspicion as David sits among the royal commanders, his wisdom and renown celebrated by the elders of the kingdom."
+        },
+        {
+            "panel_id": 19,
+            "book": "1 Samuel",
+            "chapter": 19,
+            "verses": "19:1-7",
+            "title": "Jonathan Intercedes for David",
+            "image_prompt": "Open field near Gibeah: Prince Jonathan speaking earnestly with King Saul on David's behalf, reminding the king of David's great deliverance at the valley of Elah, leading Saul to swear an oath: 'As the LORD liveth, he shall not be slain.'"
+        },
+        {
+            "panel_id": 20,
+            "book": "1 Samuel",
+            "chapter": 19,
+            "verses": "19:8-12",
+            "title": "Michal Helps David Escape Through the Window",
+            "image_prompt": "Nighttime in Gibeah: devoted Michal holding a sturdy woven rope from a stone palace window under starlight, helping David escape safely down the outer fortress wall into the shadowed hills while Saul's guards watch the front gates."
+        },
+        {
+            "panel_id": 21,
+            "book": "1 Samuel",
+            "chapter": 19,
+            "verses": "19:13-17",
+            "title": "Michal Deceives Saul's Messengers",
+            "image_prompt": "Bedchamber of David: Michal standing firmly before Saul's armed guards, pointing toward the curtained bed where she has arranged a household figure covered in blankets with a woven goat-hair bolster to give David time to flee."
+        },
+        {
+            "panel_id": 22,
+            "book": "1 Samuel",
+            "chapter": 19,
+            "verses": "19:18-24",
+            "title": "The Spirit of God at Naioth in Ramah",
+            "image_prompt": "Prophetic community of Naioth in Ramah: elderly prophet Samuel leading a company of prophets in inspired worship, as King Saul, having pursued David, falls to his knees under the overwhelming presence of the Holy Spirit, prophesying before Samuel."
+        },
+        {
+            "panel_id": 23,
+            "book": "1 Samuel",
+            "chapter": 20,
+            "verses": "20:1-10",
+            "title": "David and Jonathan Meet in Secret",
+            "image_prompt": "Secluded open field outside Gibeah: David embracing Jonathan with urgent emotion, asking: 'What have I done? what is mine iniquity... that thy father seeketh my life?', as Jonathan reassures him of his covenant love."
+        },
+        {
+            "panel_id": 24,
+            "book": "1 Samuel",
+            "chapter": 20,
+            "verses": "20:11-23",
+            "title": "The Covenant by the Stone Ezel",
+            "image_prompt": "Solitary desert marker beside the Stone Ezel: Jonathan and David standing hand-in-hand beneath an ancient terebinth tree, swearing an everlasting covenant between their descendants before the Lord, planning the secret signal of the three arrows."
+        },
+        {
+            "panel_id": 25,
+            "book": "1 Samuel",
+            "chapter": 20,
+            "verses": "20:24-34",
+            "title": "Saul's Anger at the Feast of the New Moon",
+            "image_prompt": "Banquet hall of Saul on the New Moon: King Saul seated by the wall with Abner, noticing David's empty place setting; Saul erupts in furious rage against Jonathan, casting his iron spear across the table as Jonathan rises in grieved indignation."
+        },
+        {
+            "panel_id": 26,
+            "book": "1 Samuel",
+            "chapter": 20,
+            "verses": "20:35-40",
+            "title": "Jonathan Shoots the Signal Arrows",
+            "image_prompt": "Morning field near the Stone Ezel: Prince Jonathan drawing his recurve bow and shooting three arrows far beyond a young servant boy, calling out the agreed secret code: 'Is not the arrow beyond thee? make speed, haste, stay not!'"
+        },
+        {
+            "panel_id": 27,
+            "book": "1 Samuel",
+            "chapter": 20,
+            "verses": "20:41-42",
+            "title": "The Weeping Farewell of Jonathan and David",
+            "image_prompt": "Emotional departure behind the rocky ridge: David rising from the south to bow three times before embracing Jonathan, both weeping bitterly together on each other's neck until David exceeds, parting with the blessing: 'Go in peace, forasmuch as we have sworn both of us in the name of the LORD.'"
+        },
+        {
+            "panel_id": 28,
+            "book": "1 Samuel",
+            "chapter": 21,
+            "verses": "21:1-6",
+            "title": "David Receives the Hallowed Bread at Nob",
+            "image_prompt": "Sanctuary town of Nob: high priest Ahimelech in white linen priestly robes trembling in greeting as weary, hungry David arrives, Ahimelech presenting five fresh loaves of holy consecrated showbread before the sanctuary curtain."
+        },
+        {
+            "panel_id": 29,
+            "book": "1 Samuel",
+            "chapter": 21,
+            "verses": "21:7-9",
+            "title": "The Sword of Goliath Given to David",
+            "image_prompt": "Behind the sacred ephod at Nob: Ahimelech unwrapping the colossal bronze sword of Goliath from an embroidered linen cloth, handing it to David who smiles with reverent awe, while sinister Doeg the Edomite watches secretly from the courtyard shadows."
+        },
+        {
+            "panel_id": 30,
+            "book": "1 Samuel",
+            "chapter": 21,
+            "verses": "21:10-15",
+            "title": "David Feigns Madness at Gath",
+            "image_prompt": "City gate of Philistine Gath: David, feigning madness to escape King Achish, scrabbling with his fingers on the heavy wooden doors and allowing his beard to look disheveled, as Philistine guards watch in confusion."
+        },
+        {
+            "panel_id": 31,
+            "book": "1 Samuel",
+            "chapter": 22,
+            "verses": "22:1-5",
+            "title": "The Cave of Adullam",
+            "image_prompt": "Massive cavern of Adullam in the Judean wilderness: David seated around a warm campfire surrounded by four hundred loyal men in distress, in debt, and discontented, rising as a disciplined captain over them."
+        },
+        {
+            "panel_id": 32,
+            "book": "1 Samuel",
+            "chapter": 22,
+            "verses": "22:6-10",
+            "title": "Saul Holds Court Under the Tamarisk Tree",
+            "image_prompt": "High hill of Gibeah: King Saul seated under a spreading tamarisk tree holding his spear of command, listening intently as cunning Doeg the Edomite accuses Ahimelech of aiding David at Nob."
+        },
+        {
+            "panel_id": 33,
+            "book": "1 Samuel",
+            "chapter": 22,
+            "verses": "22:11-19",
+            "title": "Ahimelech's Innocent Defense Before Saul",
+            "image_prompt": "Judgment assembly: eighty-five white-robed priests of Nob standing in unarmed, dignified righteousness before King Saul, as faithful Ahimelech boldly testifies to David's lifelong faithfulness to the king."
+        },
+        {
+            "panel_id": 34,
+            "book": "1 Samuel",
+            "chapter": 22,
+            "verses": "22:20-23",
+            "title": "Abiathar Escapes to David with the Ephod",
+            "image_prompt": "Wilderness forest of Hareth: young priest Abiathar, having escaped from Nob carrying the golden priestly ephod, weeping in relief as David wraps his arm around him, promising: 'Abide thou with me, fear not... with me thou shalt be in safeguard.'"
+        },
+        {
+            "panel_id": 35,
+            "book": "1 Samuel",
+            "chapter": 23,
+            "verses": "23:1-6",
+            "title": "David Delivers the Threshing Floors of Keilah",
+            "image_prompt": "Walled town of Keilah: David and his six hundred men driving off Philistine raiders from the golden open-air threshing floors, liberating the grateful townspeople and their grain harvests."
+        },
+        {
+            "panel_id": 36,
+            "book": "1 Samuel",
+            "chapter": 23,
+            "verses": "23:7-14",
+            "title": "Inquiring of the Lord with the Ephod",
+            "image_prompt": "Inside Keilah's stone gate: David kneeling beside priest Abiathar holding the golden embroidered ephod with the Urim and Thummim, seeking divine guidance from the Lord before departing into the wilderness of Ziph."
+        },
+        {
+            "panel_id": 37,
+            "book": "1 Samuel",
+            "chapter": 23,
+            "verses": "23:15-18",
+            "title": "Jonathan Strengthens David's Hand in God",
+            "image_prompt": "Dense oak woods of Ziph: Prince Jonathan embracing David in secret fellowship, looking into his eyes with resolute faith to say: 'Fear not: for the hand of Saul my father shall not find thee; and thou shalt be king over Israel, and I shall be next unto thee.'"
+        },
+        {
+            "panel_id": 38,
+            "book": "1 Samuel",
+            "chapter": 23,
+            "verses": "23:19-29",
+            "title": "The Rock of Escape at Maon",
+            "image_prompt": "Rugged sandstone ridges of the Wilderness of Maon: King Saul and his soldiers pursuing along one side of the mountain while David and his men hasten on the other, just as a breathless messenger rides up to call Saul away to fight a Philistine raid."
+        },
+        {
+            "panel_id": 39,
+            "book": "1 Samuel",
+            "chapter": 24,
+            "verses": "24:1-7",
+            "title": "David Cuts Saul's Skirt in the Cave of En-gedi",
+            "image_prompt": "Deep limestone cavern of En-gedi near the wild goat cliffs: King Saul rests peacefully near the sunlit cave entrance, while in the shadowed rocky recesses David stands quietly holding a trimmed piece of cloth from the corner of Saul's royal mantle, his face filled with immediate remorse and reverent conviction as he motions to his hidden men to stay their hands in sacred restraint."
+        }
+        ,
+        {
+            "panel_id": 40,
+            "book": "1 Samuel",
+            "chapter": 24,
+            "verses": "24:8-15",
+            "title": "David Confronts Saul from the Cave Mouth",
+            "image_prompt": "Sunlit mouth of the En-gedi cave: David bowing with his face to the earth, holding up the severed piece of Saul's skirt in his hand, proving to King Saul that he harbored no malice or rebellion against the Lord's anointed."
+        },
+        {
+            "panel_id": 41,
+            "book": "1 Samuel",
+            "chapter": 24,
+            "verses": "24:16-22",
+            "title": "Saul Weeps and Acknowledges David's Righteousness",
+            "image_prompt": "Rocky canyon path: King Saul weeping with head bowed, crying aloud: 'Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil', making peace before leading his army home."
+        },
+        {
+            "panel_id": 42,
+            "book": "1 Samuel",
+            "chapter": 25,
+            "verses": "25:1-8",
+            "title": "The Death of Samuel and David's Men at Carmel",
+            "image_prompt": "Pastoral heights of Carmel: David's ten young messengers arriving peacefully in the green pastures where three thousand sheep are being sheared, extending greetings of peace to the wealthy herdsmen of Nabal."
+        },
+        {
+            "panel_id": 43,
+            "book": "1 Samuel",
+            "chapter": 25,
+            "verses": "25:9-17",
+            "title": "Nabal's Harsh Rejection",
+            "image_prompt": "Shearing feast at Carmel: wealthy, surly Nabal shouting in arrogant disdain at David's messengers, refusing bread and meat, while a loyal shepherd boy slips away in haste to warn wise Abigail."
+        },
+        {
+            "panel_id": 44,
+            "book": "1 Samuel",
+            "chapter": 25,
+            "verses": "25:18-23",
+            "title": "Abigail Prepares the Peace Offering",
+            "image_prompt": "Courtyard of Carmel: beautiful and wise Abigail in modest flowing robes swiftly directing servants loading donkeys with two hundred loaves of bread, two skins of wine, five dressed sheep, parched corn, raisins, and figs."
+        },
+        {
+            "panel_id": 45,
+            "book": "1 Samuel",
+            "chapter": 25,
+            "verses": "25:24-31",
+            "title": "Abigail Pleads Before David on the Trail",
+            "image_prompt": "Mountain pass: Abigail dismounting her donkey and falling prostrate at David's feet, speaking with brilliant, gracious eloquence to prevent bloodshed, reminding him that his soul is bound in the bundle of life with the Lord."
+        },
+        {
+            "panel_id": 46,
+            "book": "1 Samuel",
+            "chapter": 25,
+            "verses": "25:32-38",
+            "title": "David Blesses Abigail's Wisdom",
+            "image_prompt": "Mountain trail at sunset: David holding out his hand to raise up Abigail, blessing the Lord God of Israel for sending her wise counsel to stay his hand, receiving her gifts of peace with gratitude."
+        },
+        {
+            "panel_id": 47,
+            "book": "1 Samuel",
+            "chapter": 25,
+            "verses": "25:39-44",
+            "title": "David Takes Abigail as Wife",
+            "image_prompt": "Carmel homestead: Abigail bowing with five handmaidens before David's messengers, gladly mounting her donkey to ride with them to become David's noble and faithful wife in the wilderness."
+        },
+        {
+            "panel_id": 48,
+            "book": "1 Samuel",
+            "chapter": 26,
+            "verses": "26:1-8",
+            "title": "Saul Encamps at the Hill of Hachilah",
+            "image_prompt": "Dusk over the wilderness of Ziph: King Saul and three thousand chosen men pitching their camp within the circle of baggage wagons on the hill of Hachilah, with David and Abishai scouting from a high ridge."
+        },
+        {
+            "panel_id": 49,
+            "book": "1 Samuel",
+            "chapter": 26,
+            "verses": "26:9-12",
+            "title": "David Takes Saul's Spear and Cruse of Water",
+            "image_prompt": "Midnight inside Saul's sleeping camp: David and Abishai standing silently over deeply sleeping King Saul and general Abner, carefully lifting Saul's upright iron spear and the clay water jug from beside his bolster without waking anyone."
+        },
+        {
+            "panel_id": 50,
+            "book": "1 Samuel",
+            "chapter": 26,
+            "verses": "26:13-20",
+            "title": "David Calls Out to Abner from the Hilltop",
+            "image_prompt": "Dawn breaking over opposite mountain peaks: David standing across a wide valley holding high Saul's iron spear and water jug, crying out across the ravine to wake commander Abner and expose the lax watch."
+        },
+        {
+            "panel_id": 51,
+            "book": "1 Samuel",
+            "chapter": 26,
+            "verses": "26:21-25",
+            "title": "Saul Blesses David from Afar",
+            "image_prompt": "Valley between the hills: King Saul calling across the gorge: 'I have sinned: return, my son David... blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail', as David returns the spear."
+        },
+        {
+            "panel_id": 52,
+            "book": "1 Samuel",
+            "chapter": 27,
+            "verses": "27:1-7",
+            "title": "David Granted the City of Ziklag",
+            "image_prompt": "Royal court of Philistine Gath: King Achish granting the desert town of Ziklag to David, as David and his six hundred men and their families march south to establish their new dwelling place."
+        },
+        {
+            "panel_id": 53,
+            "book": "1 Samuel",
+            "chapter": 27,
+            "verses": "27:8-12",
+            "title": "David's Raids in the South Country",
+            "image_prompt": "Southern desert border of the Negev: David's cavalry patrolling against ancient desert raiders, maintaining security along the southern borderlands while reporting diplomacy to King Achish."
+        },
+        {
+            "panel_id": 54,
+            "book": "1 Samuel",
+            "chapter": 28,
+            "verses": "28:1-7",
+            "title": "Saul Terrified at Mount Gilboa",
+            "image_prompt": "Slopes of Mount Gilboa: King Saul gazing out from his tent at the massive Philistine encampment at Shunem, his heart trembling with overwhelming dread as the Lord answers him neither by dreams, nor by Urim, nor by prophets."
+        },
+        {
+            "panel_id": 55,
+            "book": "1 Samuel",
+            "chapter": 28,
+            "verses": "28:8-14",
+            "title": "Saul Visits the Woman at Endor",
+            "image_prompt": "Dimly lit subterranean stone room at Endor: disguised King Saul bowing low to the earth in trembling awe, as the startled woman sees a vision of prophet Samuel ascending, wrapped in his sacred mantle."
+        },
+        {
+            "panel_id": 56,
+            "book": "1 Samuel",
+            "chapter": 28,
+            "verses": "28:15-19",
+            "title": "Samuel's Solemn Prophecy of Judgment",
+            "image_prompt": "Shadowy chamber of Endor: the spirit of Samuel speaking solemn words of divine judgment to King Saul, foretelling that the Lord has departed from him and that Israel and his sons will be delivered into the hand of the Philistines."
+        },
+        {
+            "panel_id": 57,
+            "book": "1 Samuel",
+            "chapter": 28,
+            "verses": "28:20-25",
+            "title": "The Woman Feeds the Exhausted King",
+            "image_prompt": "Stone room at Endor: King Saul, having collapsed full-length upon the floor in weakness and terror, sitting on a couch being gently served freshly baked unleavened bread and roasted meat by the compassionate woman and his servants."
+        },
+        {
+            "panel_id": 58,
+            "book": "1 Samuel",
+            "chapter": 29,
+            "verses": "29:1-5",
+            "title": "The Philistine Lords Reject David",
+            "image_prompt": "Military muster at Aphek: the armored lords of the Philistines angrily confronting King Achish, gesturing vehemently that David and his Hebrew soldiers must not go into battle with them lest he turn against them."
+        },
+        {
+            "panel_id": 59,
+            "book": "1 Samuel",
+            "chapter": 29,
+            "verses": "29:6-11",
+            "title": "Achish Sends David Back in Peace",
+            "image_prompt": "Morning mist at the military camp: King Achish speaking with genuine regret to David, commending his upright conduct and sending him and his six hundred men back peacefully to Ziklag."
+        },
+        {
+            "panel_id": 60,
+            "book": "1 Samuel",
+            "chapter": 30,
+            "verses": "30:1-6",
+            "title": "The Grief at Burned Ziklag",
+            "image_prompt": "Smoking ruins of Ziklag: David and his men standing amidst charred stone dwellings and empty sheepfolds, weeping until they have no more power to weep, while David encourages himself in the Lord his God."
+        },
+        {
+            "panel_id": 61,
+            "book": "1 Samuel",
+            "chapter": 30,
+            "verses": "30:7-10",
+            "title": "Inquiring of the Lord and the Brook Besor",
+            "image_prompt": "Banks of the Brook Besor: priest Abiathar holding the golden ephod before David who prays: 'Shall I pursue after this troop?', leaving two hundred exhausted men behind by the brook while four hundred cross to pursue."
+        },
+        {
+            "panel_id": 62,
+            "book": "1 Samuel",
+            "chapter": 30,
+            "verses": "30:11-15",
+            "title": "Reviving the Starving Egyptian Youth",
+            "image_prompt": "Desert wilderness: David's men kneeling beside a fainting, starved young Egyptian servant abandoned by his Amalekite master, reviving him with cool water, sweet pressed figs, and two clusters of raisins."
+        },
+        {
+            "panel_id": 63,
+            "book": "1 Samuel",
+            "chapter": 30,
+            "verses": "30:16-20",
+            "title": "David Recovers Everything at the Amalekite Camp",
+            "image_prompt": "Twilight desert oasis: David and his four hundred men surprising the scattered Amalekite camp, recovering all their captive wives, sons, and daughters completely unharmed, along with vast herds of livestock."
+        },
+        {
+            "panel_id": 64,
+            "book": "1 Samuel",
+            "chapter": 30,
+            "verses": "30:21-25",
+            "title": "The Statute of the Brook Besor",
+            "image_prompt": "Banks of the Brook Besor: victorious David warmly greeting the two hundred men who had guarded the baggage, declaring the permanent statute: 'As his part is that goeth down to the battle, so shall his part be that tarrieth by the stuff: they shall part alike.'"
+        },
+        {
+            "panel_id": 65,
+            "book": "1 Samuel",
+            "chapter": 30,
+            "verses": "30:26-31",
+            "title": "David Sends Presents to the Elders of Judah",
+            "image_prompt": "Rebuilt Ziklag: David sending laden camel caravans with presents of the recovered spoils to the venerable elders of Bethel, Ramoth, Hebron, and all the places where David and his men were wont to haunt."
+        },
+        {
+            "panel_id": 66,
+            "book": "1 Samuel",
+            "chapter": 31,
+            "verses": "31:1-6",
+            "title": "The Tragic Fall on Mount Gilboa",
+            "image_prompt": "Mount Gilboa at somber twilight: wounded King Saul resting fallen beside his armor-bearer amidst broken shields and spent arrows on the rocky summit, bringing an end to his reign as storm clouds gather."
+        },
+        {
+            "panel_id": 67,
+            "book": "1 Samuel",
+            "chapter": 31,
+            "verses": "31:7-10",
+            "title": "The Valley Towns Deserted",
+            "image_prompt": "Jordan Valley: Philistine garrisons entering the deserted stone cities of Israel, carrying King Saul's armor into the temple of Ashtaroth under a gloomy, overcast sky."
+        },
+        {
+            "panel_id": 68,
+            "book": "1 Samuel",
+            "chapter": 31,
+            "verses": "31:11-13",
+            "title": "The Valiant Men of Jabesh-Gilead",
+            "image_prompt": "Nighttime rescue by the Jordan: valiant warriors of Jabesh-gilead marching through the night carrying the honored remains of Saul and Jonathan back to Jabesh, burying their bones reverently beneath the great tamarisk tree in solemn seven-day fasting."
+        }
+    
+]

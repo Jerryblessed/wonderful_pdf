@@ -1,0 +1,666 @@
+[
+  {
+    "panel_id": 1,
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verses": "1:1-4",
+    "title": "A Survivor Arrives at Ziklag",
+    "image_prompt": "Dry sun-drenched outpost of Ziklag in late-afternoon light: David seated among his weary men as a lone, dust-covered messenger with torn linen garments and earth upon his head bows low to the ground, delivering the grave report of Israel's defeat on Mount Gilboa under a somber desert sky."
+  },
+  {
+    "panel_id": 2,
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verses": "1:5-10",
+    "title": "The Amalekite Presents Saul's Crown",
+    "image_prompt": "Courtyard of Ziklag: the Amalekite traveler kneeling with outstretched hands, presenting King Saul's golden royal crown and ornate armlet bracelet to David, whose weathered face fills with solemn, disbelieving sorrow."
+  },
+  {
+    "panel_id": 3,
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verses": "1:11-12",
+    "title": "David and His Men Mourn",
+    "image_prompt": "David standing abruptly with his outer linen mantle torn in grief, surrounded by his veteran warriors who bow their heads, weeping and fasting in collective mourning for Saul, Jonathan, and the fallen soldiers of Israel until sunset."
+  },
+  {
+    "panel_id": 4,
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verses": "1:13-16",
+    "title": "Judicial Ruling on the Messenger",
+    "image_prompt": "Dignified stone council chamber: David standing in stern, righteous judgment before the kneeling Amalekite traveler, condemning the man's self-proclaimed strike against the Lord's anointed king in solemn judicial authority."
+  },
+  {
+    "panel_id": 5,
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verses": "1:17-21",
+    "title": "The Song of the Bow Commenced",
+    "image_prompt": "Quiet stone room: David dictating the lamentation of the Song of the Bow to a scribe holding a parchment scroll, with visionary background panels showing the barren, silent slopes of Mount Gilboa devoid of rain or dew."
+  },
+  {
+    "panel_id": 6,
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verses": "1:22-27",
+    "title": "How Are the Mighty Fallen",
+    "image_prompt": "Memorial composition: a bronze sword and recurve bow resting across an ancient folded cloak, with David standing solitary on a Judean hilltop at twilight, his head bowed in deep love and mourning for his fallen brother Jonathan."
+  },
+  {
+    "panel_id": 7,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:1-4",
+    "title": "David Anointed King Over Judah at Hebron",
+    "image_prompt": "Ancient hilltop city of Hebron: elders of Judah gathering in solemn celebration around David, pouring fragrant golden oil over his head to anoint him king over the house of Judah, with wives Ahinoam and Abigail watching in modest robes."
+  },
+  {
+    "panel_id": 8,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:5-7",
+    "title": "David Honors the Men of Jabesh-Gilead",
+    "image_prompt": "Stone gateway of Jabesh-gilead: a royal messenger from Hebron presenting words of blessing and royal favor from King David to the venerable city elders for their honorable and brave burial of Saul."
+  },
+  {
+    "panel_id": 9,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:8-11",
+    "title": "Ish-bosheth Made King at Mahanaim",
+    "image_prompt": "Fortified northern city of Mahanaim: proud commander Abner standing prominently beside Saul's son Ish-bosheth, placing a simple royal circlet on his head before the gathered northern tribal leaders, establishing a divided kingdom."
+  },
+  {
+    "panel_id": 10,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:12-17",
+    "title": "The Standoff at the Pool of Gibeon",
+    "image_prompt": "Still blue waters of the Pool of Gibeon: Abner's northern soldiers and Joab's southern warriors arrayed in tense confrontation on opposite stone banks, with twelve chosen champions from each side stepping forward under dust and bright sun."
+  },
+  {
+    "panel_id": 11,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:18-23",
+    "title": "Asahel Pursues Abner",
+    "image_prompt": "Rugged, rocky wilderness ridge: swift-footed young Asahel sprinting across the limestone terrain in relentless pursuit, as seasoned commander Abner turns with raised spear calling out a solemn warning across the dry brush."
+  },
+  {
+    "panel_id": 12,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:24-29",
+    "title": "Abner Calls for a Truce",
+    "image_prompt": "Hill of Ammah at dusk: Abner standing atop a rocky rise surrounded by Benjaminite soldiers, calling across the ravine to Joab to cease the civil strife, as Joab raises a bronze trumpet to sound the retreat under twilight skies."
+  },
+  {
+    "panel_id": 13,
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verses": "2:30-32",
+    "title": "The Night March to Hebron",
+    "image_prompt": "Pale dawn breaking over the Judean hills: Joab and his weary soldiers marching in quiet discipline through the morning mist toward the gates of Hebron, after burying Asahel in his father's sepulchre at Bethlehem."
+  },
+  {
+    "panel_id": 14,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:1-5",
+    "title": "David's House Strengthened at Hebron",
+    "image_prompt": "Royal stone courtyard in Hebron: David conferring with wise counselors as his household flourishes, showing mothers and newborn sons in modest domestic chambers under warm afternoon light."
+  },
+  {
+    "panel_id": 15,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:6-11",
+    "title": "Abner's Confrontation with Ish-bosheth",
+    "image_prompt": "Council chamber at Mahanaim: proud commander Abner standing in towering indignation before Ish-bosheth, gesturing with fiery resolve as the intimidated young king sits speechless in his wooden chair of state."
+  },
+  {
+    "panel_id": 16,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:12-16",
+    "title": "Michal Returned to David",
+    "image_prompt": "Winding mountain road at Bahurim: royal guards escorting Saul's daughter Michal in modest traveling robes toward Hebron, as her weeping husband Paltiel is commanded by Abner to halt and turn back."
+  },
+  {
+    "panel_id": 17,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:17-21",
+    "title": "Abner Feasts with David at Hebron",
+    "image_prompt": "Hebron banquet hall: David hosting Abner and his twenty delegates at low wooden tables laden with bread, fruits, and roasted meats, cementing a solemn covenant of national unity before Abner departs in peace."
+  },
+  {
+    "panel_id": 18,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:22-27",
+    "title": "Joab Intercepts Abner at the Gate",
+    "image_prompt": "Deep stone archway of Hebron's city gate: Joab deceitfully calling Abner aside into the cool shadows under the pretense of a private word, a sudden moment of betrayal unfolding away from the public gaze."
+  },
+  {
+    "panel_id": 19,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:28-30",
+    "title": "David Proclaims His Innocence",
+    "image_prompt": "Open public square of Hebron: King David standing before the shocked elders of Judah with hands raised to heaven, publicly proclaiming himself and his kingdom entirely innocent of the blood of Abner."
+  },
+  {
+    "panel_id": 20,
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": "3:31-39",
+    "title": "David Mourns at Abner's Burial",
+    "image_prompt": "Hebron burial ground: King David clothed in rough sackcloth weeping openly behind Abner's bier, leading the mourning lament before the people, refusing to eat until the sun goes down."
+  },
+  {
+    "panel_id": 21,
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verses": "4:1-3",
+    "title": "Instability in the Northern Kingdom",
+    "image_prompt": "Palace of Mahanaim: anxious courtiers and captains whispering in distress upon hearing that Abner is dead in Hebron, while Ish-bosheth sits paralyzed with fear in his throne room."
+  },
+  {
+    "panel_id": 22,
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verses": "4:4-8",
+    "title": "The Conspirators Arrive at Hebron",
+    "image_prompt": "Nighttime audience in Hebron: the two treacherous captains Baanah and Rechab presenting a wrapped linen package before King David, falsely boasting that they have delivered him from his enemies under flickering torchlight."
+  },
+  {
+    "panel_id": 23,
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verses": "4:9-12",
+    "title": "David Condemns Treachery and Honors Ish-bosheth",
+    "image_prompt": "Solemn courtyard at Hebron: King David sternly condemning the two wicked captains, while faithful Levite elders reverently carry the remains of Ish-bosheth for dignified burial inside the tomb of Abner."
+  },
+  {
+    "panel_id": 24,
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": "5:1-5",
+    "title": "David Anointed King Over All Israel",
+    "image_prompt": "Vast plain outside Hebron: elders and commanders from all twelve tribes gathered in joyful unity around David, pouring anointing oil over his brow and making a solemn covenant before the Lord."
+  },
+  {
+    "panel_id": 25,
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": "5:6-10",
+    "title": "David Captures the Stronghold of Zion",
+    "image_prompt": "Ancient steep ridge of Mount Zion: David and his disciplined warriors ascending through the limestone water tunnel and stone ramparts of the Jebusite fortress, capturing the citadel to be called the City of David."
+  },
+  {
+    "panel_id": 26,
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": "5:11-12",
+    "title": "Craftsmen and Cedar from Tyre",
+    "image_prompt": "Royal quarter of Jerusalem: Phoenician masons and carpenters sent by King Hiram of Tyre shaping heavy fragrant cedar beams and dressed limestone blocks, constructing King David's palace under bright Mediterranean skies."
+  },
+  {
+    "panel_id": 27,
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": "5:13-16",
+    "title": "David's Household Grows in Jerusalem",
+    "image_prompt": "Quiet, sunlit domestic courtyard in the City of David: royal attendants, mothers in modest full-length robes, and children playing among stone columns, reflecting the flourishing royal dynasty."
+  },
+  {
+    "panel_id": 28,
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": "5:17-21",
+    "title": "Victory at Baal-perazim",
+    "image_prompt": "Valley of Rephaim: David leading a decisive, sweeping charge that scatters the Philistine battle lines like a bursting flood of waters, with abandoned Philistine idols carried away by Hebrew soldiers."
+  },
+  {
+    "panel_id": 29,
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": "5:22-25",
+    "title": "The Sound of Marching in the Mulberry Trees",
+    "image_prompt": "Grove of leafy balsam trees: David and his soldiers crouching silently in disciplined formation, looking upward in holy anticipation as a supernatural rustling wind sweeps through the treetops, signaling God's advance before them."
+  },
+  {
+    "panel_id": 30,
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verses": "6:1-5",
+    "title": "The Ark Set Upon a New Cart",
+    "image_prompt": "Procession from Baale-judah: thirty thousand chosen men of Israel marching with David behind a new wooden cart drawn by oxen carrying the golden Ark of the Covenant, playing harps, lyres, and timbrels with joy."
+  },
+  {
+    "panel_id": 31,
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verses": "6:6-11",
+    "title": "Solemnity at the Threshing Floor",
+    "image_prompt": "Nachon's threshing floor: the oxen stumbling on uneven ground, Uzzah reaching out toward the Ark, and a sudden, sacred stillness falling over the crowd as David draws back in profound holy awe, diverting the Ark to Obed-edom's stone house."
+  },
+  {
+    "panel_id": 32,
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verses": "6:12-15",
+    "title": "The Ark Carried with Holy Gladness",
+    "image_prompt": "Grand procession ascending toward Jerusalem: consecrated Levites carrying the Ark of the Covenant reverently on golden poles, while King David, clad in a humble linen ephod, dances with all his might to sounding shofars and joyous shouts."
+  },
+  {
+    "panel_id": 33,
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verses": "6:16-19",
+    "title": "The Ark Placed in the Prepared Tent",
+    "image_prompt": "City of David: the Ark placed reverently inside a consecrated woven tent pavilion, with David distributing loaves of bread, dates, and flagons of sweet wine to the joyful multitude of men and women."
+  },
+  {
+    "panel_id": 34,
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verses": "6:20-23",
+    "title": "Michal's Disdain and David's Resolve",
+    "image_prompt": "Palace courtyard doorway: Michal standing with a cold, haughty expression confronting David, who stands in his humble linen ephod responding with quiet, unwavering devotion to the Lord who chose him."
+  },
+  {
+    "panel_id": 35,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:1-3",
+    "title": "David Proposes a House for God",
+    "image_prompt": "Cedar palace chamber: King David conversing thoughtfully with the prophet Nathan, pointing out the contrast between his grand cedar home and the curtains sheltering the Ark of the Lord under evening lamplight."
+  },
+  {
+    "panel_id": 36,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:4-7",
+    "title": "The Word of the Lord Comes to Nathan",
+    "image_prompt": "Nighttime in Nathan's quiet chamber: the prophet sitting up alert in prayerful contemplation as the word of the Lord comes to him under soft starlight, revealing that God has walked in a tent and tabernacle with His people."
+  },
+  {
+    "panel_id": 37,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:8-11",
+    "title": "The Lord Will Make Thee an House",
+    "image_prompt": "Council chamber: Nathan recounting God's promise to David, with visionary background panels showing young David keeping sheep, established victories, and peaceful homesteads in Israel."
+  },
+  {
+    "panel_id": 38,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:12-17",
+    "title": "The Promise of an Everlasting Throne",
+    "image_prompt": "Prophetic audience: Nathan delivering the divine covenant that David's seed will build a house for God's name, and that his throne and kingdom will be established forever, David listening with wide, awe-struck eyes."
+  },
+  {
+    "panel_id": 39,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:18-21",
+    "title": "David Sits Before the Lord",
+    "image_prompt": "Tent sanctuary of the Ark: King David seated humbly on the ground before the sacred veil with open hands and head bowed in wonder, whispering: 'Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?'"
+  },
+  {
+    "panel_id": 40,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:22-24",
+    "title": "There is None Beside Thee",
+    "image_prompt": "Sacred sanctuary: David lifting his hands in prayer, bathed in warm golden lamplight, praising God for His greatness and for redeeming Israel to be His people forever."
+  },
+  {
+    "panel_id": 41,
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": "7:25-29",
+    "title": "Establish the Word Forever",
+    "image_prompt": "Dawn breaking over Jerusalem: David concluding his heartfelt prayer of faith, looking up toward the morning sky, petitioning that God's blessing may rest upon his house forever."
+  },
+  {
+    "panel_id": 42,
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verses": "8:1-6",
+    "title": "Victories Over Surrounding Nations",
+    "image_prompt": "Wide desert borderlands: David's disciplined armies securing the frontier outposts of Moab and Syria, placing protective garrisons in Damascus under clear desert skies."
+  },
+  {
+    "panel_id": 43,
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verses": "8:7-12",
+    "title": "David Dedicates Treasures to the Lord",
+    "image_prompt": "Sanctuary treasury: King David and Levite scribes inventorying gleaming vessels of silver, gold, and bronze presented by Prince Joram of Hamath, consecrating all captured wealth entirely unto the Lord."
+  },
+  {
+    "panel_id": 44,
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verses": "8:13-14",
+    "title": "Garrisons Established in Edom",
+    "image_prompt": "Stark limestone canyons of the Valley of Salt: Hebrew sentinels and garrisons stationed along the rugged heights of Edom, establishing peaceful control throughout the mountain territory."
+  },
+  {
+    "panel_id": 45,
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verses": "8:15-18",
+    "title": "David's Administration of Justice",
+    "image_prompt": "Open stone judgment hall in Jerusalem: King David presiding over the people with justice and equity, flanked by general Joab, recorder Jehoshaphat, and Zadok the priest with parchment scrolls."
+  },
+  {
+    "panel_id": 46,
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verses": "9:1-4",
+    "title": "David Inquires After Saul's House",
+    "image_prompt": "Palace reception room: King David questioning servant Ziba about whether any remain of Saul's family to whom he may show the kindness of God for Jonathan's sake."
+  },
+  {
+    "panel_id": 47,
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verses": "9:5-8",
+    "title": "Mephibosheth Brought Before David",
+    "image_prompt": "Royal audience hall: Mephibosheth, lame in both feet, kneeling humbly with hands trembling before King David, who steps down from his seat with a gentle, reassuring smile, welcoming him with open arms."
+  },
+  {
+    "panel_id": 48,
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verses": "9:9-13",
+    "title": "A Place at the King's Table",
+    "image_prompt": "Royal banquet hall in Jerusalem: Mephibosheth seated with dignity at King David's table alongside the royal sons, sharing the feast as an honored member of the household."
+  },
+  {
+    "panel_id": 49,
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verses": "10:1-5",
+    "title": "David's Envoys Humiliated by Hanun",
+    "image_prompt": "Oasis town of Jericho: David's royal ambassadors, clad in fresh traveling mantles with heads respectfully covered, resting quietly in shelter until their shaved beards grow out, received with royal discretion."
+  },
+  {
+    "panel_id": 50,
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verses": "10:6-8",
+    "title": "The Coalition Muster Before Medeba",
+    "image_prompt": "Broad plain outside the Ammonite city: allied Syrian chariots and foot soldiers deploying across the open fields while the Ammonites hold the city gate in formidable battle array."
+  },
+  {
+    "panel_id": 51,
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verses": "10:9-14",
+    "title": "Joab and Abishai Divide Their Forces",
+    "image_prompt": "Battlefield overlook: Joab and brother Abishai standing back-to-back, clasping arms in mutual resolve before leading their two divisions against the front and rear enemy lines under a dramatic sky."
+  },
+  {
+    "panel_id": 52,
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verses": "10:15-19",
+    "title": "Decisive Victory at Helam",
+    "image_prompt": "Plains of Helam: King David leading the combined hosts of Israel across the Jordan to victory, with Syrian commanders dismounting to sue for peace and enter into covenant with Israel."
+  },
+  {
+    "panel_id": 53,
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verses": "11:1-5",
+    "title": "David on the Palace Roof",
+    "image_prompt": "City of David at twilight: King David walking on his high stone palace terrace, looking out over the quiet Jerusalem rooftops toward an enclosed courtyard where Bathsheba tends to domestic evening routines in modest attire."
+  },
+  {
+    "panel_id": 54,
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verses": "11:6-13",
+    "title": "Uriah's Devotion to the Ark",
+    "image_prompt": "Palace portico at night: faithful soldier Uriah the Hittite sleeping on a simple wool blanket among the palace guards, refusing the comforts of home out of solidarity with the Ark and the army in the field."
+  },
+  {
+    "panel_id": 55,
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verses": "11:14-17",
+    "title": "The Letter to Joab at Rabbah",
+    "image_prompt": "Outside the fortified walls of Rabbah: general Joab breaking the wax seal of King David's letter carried unknowingly by Uriah, with soldiers advancing toward the city ramparts."
+  },
+  {
+    "panel_id": 56,
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verses": "11:18-25",
+    "title": "The Messenger Reports to David",
+    "image_prompt": "Royal court in Jerusalem: a breathless military runner reporting the outcome of the siege to King David, naming Uriah among the fallen as David listens with a composed, guarded countenance."
+  },
+  {
+    "panel_id": 57,
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verses": "11:26-27",
+    "title": "Bathsheba Mourns Uriah",
+    "image_prompt": "Modest stone dwelling in Jerusalem: Bathsheba seated quietly in dark linen mourning robes surrounded by grieving women, before being received into David's house, with the atmosphere reflecting divine displeasure."
+  },
+  {
+    "panel_id": 58,
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": "12:1-7",
+    "title": "Nathan's Parable of the Ewe Lamb",
+    "image_prompt": "Throne room confrontation: the prophet Nathan standing humbly before King David, recounting the story of the poor man's cherished pet lamb taken by the rich man, as David reacts with fiery indignation."
+  },
+  {
+    "panel_id": 59,
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": "12:8-12",
+    "title": "Thou Art the Man",
+    "image_prompt": "Dramatic confrontation: Nathan pointing his finger with piercing solemnity at King David, declaring the divine indictment: 'Thou art the man!', as David's face pales with sudden conviction."
+  },
+  {
+    "panel_id": 60,
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": "12:13-15",
+    "title": "David's Confession and the Prophet's Word",
+    "image_prompt": "Throne room: King David bowing low with head in hands, whispering in broken repentance: 'I have sinned against the LORD', while Nathan delivers God's solemn reply of pardon mingled with judgment."
+  },
+  {
+    "panel_id": 61,
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": "12:16-23",
+    "title": "David Rises to Worship the Lord",
+    "image_prompt": "Sanctuary entrance at sunrise: David, having washed and changed into clean garments after seven days of fasting on the floor, entering the house of the Lord to worship with quiet, peace-filled grief."
+  },
+  {
+    "panel_id": 62,
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": "12:24-25",
+    "title": "The Birth of Solomon (Jedidiah)",
+    "image_prompt": "Peaceful domestic chamber: Bathsheba resting with her newborn infant son Solomon in her arms, as King David and the prophet Nathan smile in blessing under a soft ray of golden celestial light."
+  },
+  {
+    "panel_id": 63,
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": "12:26-31",
+    "title": "The Fall of Rabbah and the Golden Crown",
+    "image_prompt": "Citadel of Rabbah: Joab presenting the heavy, jewel-studded golden royal crown of the Ammonites to King David, who places it on his head amidst his cheering Hebrew soldiers."
+  },
+  {
+    "panel_id": 64,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:1-5",
+    "title": "Jonadab's Deceitful Counsel to Amnon",
+    "image_prompt": "Dimly lit palace bedchamber: restless Amnon lying upon his couch feigning sickness, as his shrewd cousin Jonadab leans close to whisper a deceptive plan under shadowy archways."
+  },
+  {
+    "panel_id": 65,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:6-14",
+    "title": "Tamar Prepares Food in the Chamber",
+    "image_prompt": "Palace kitchen chamber: modest princess Tamar, wearing a long-sleeved royal robe of varied colors, preparing heart-shaped cakes on a tray before bringing them in obedience to her brother's room."
+  },
+  {
+    "panel_id": 66,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:15-19",
+    "title": "Tamar in Mourning with Ashes on Her Head",
+    "image_prompt": "Stone street of Jerusalem: Tamar walking in profound sorrow with her torn robe of varied colors, ashes on her head, and hand pressed against her brow, weeping openly in dignified grief."
+  },
+  {
+    "panel_id": 67,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:20-22",
+    "title": "Absalom Shelters Tamar",
+    "image_prompt": "Absalom's house: handsome Absalom gently placing a comforting mantle over his grieving sister Tamar seated quietly in a sheltered room, his dark eyes filled with silent, mounting resolve."
+  },
+  {
+    "panel_id": 68,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:23-29",
+    "title": "The Feast of the Sheep-Shearing at Baal-hazor",
+    "image_prompt": "Country estate of Baal-hazor: festive outdoor banquet tables suddenly thrown into confusion as the royal sons dismount and scramble toward their mules in panic, escaping into the hills."
+  },
+  {
+    "panel_id": 69,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:30-36",
+    "title": "The Surviving Princes Return to David",
+    "image_prompt": "Palace gate of Jerusalem: King David and Jonadab watching with overwhelming relief as the line of surviving royal princes arrives on their mules, weeping together in mutual embrace."
+  },
+  {
+    "panel_id": 70,
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verses": "13:37-39",
+    "title": "Absalom in Exile at Geshur",
+    "image_prompt": "Stone battlements of Geshur: solitary Absalom standing on the foreign ramparts looking south toward Judea, while in distant Jerusalem King David longs in his heart for his banished son."
+  },
+  {
+    "panel_id": 71,
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": "14:1-3",
+    "title": "Joab Enlists the Wise Woman of Tekoa",
+    "image_prompt": "Courtyard in Tekoa: general Joab instructing a wise, mature woman in worn mourning robes, carefully rehearsing the appeal she is to present before King David."
+  },
+  {
+    "panel_id": 72,
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": "14:4-11",
+    "title": "The Parable of the Two Sons",
+    "image_prompt": "Throne room of David: the wise woman of Tekoa kneeling before King David with hands clasped, pleading passionately for the preservation of her remaining son like the last ember of her hearth."
+  },
+  {
+    "panel_id": 73,
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": "14:12-20",
+    "title": "Water Spilled Upon the Ground",
+    "image_prompt": "David's audience chamber: the wise woman gesturing with profound eloquence toward a small overturned water jar, reminding the thoughtful king that all are as water spilled upon the ground which cannot be gathered up again."
+  },
+  {
+    "panel_id": 74,
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": "14:21-24",
+    "title": "Absalom Returns but Remains Excluded",
+    "image_prompt": "Courtyard of Absalom's house in Jerusalem: Absalom returning through the city gate with his attendants, gazing with frustration toward the distant royal palace where the king has forbidden him to see his face."
+  },
+  {
+    "panel_id": 75,
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": "14:25-27",
+    "title": "Absalom's Renown and Children",
+    "image_prompt": "Domestic setting: handsome Absalom with his luxuriant, thick dark hair, standing proudly in his courtyard beside his three sons and his beautiful daughter Tamar dressed in modest linen robes."
+  },
+  {
+    "panel_id": 76,
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": "14:28-33",
+    "title": "David Receives and Kisses Absalom",
+    "image_prompt": "Throne room of Jerusalem: Absalom bowing low with face to the stone floor before King David, who steps forward with fatherly affection, raising Absalom up and kissing his cheek in formal reconciliation."
+  },
+  {
+    "panel_id": 77,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:1-6",
+    "title": "Absalom Steals the Hearts of Israel",
+    "image_prompt": "Gate of Jerusalem at dawn: ambitious Absalom standing beside his gleaming chariot and fifty runners, warmly greeting incoming petitioners with handshakes and kisses, undermining the king's justice."
+  },
+  {
+    "panel_id": 78,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:7-12",
+    "title": "The Conspiracy Formed at Hebron",
+    "image_prompt": "Ancient public square of Hebron: Absalom offering sacrifices while secret messengers sound the trumpet to proclaim him king, accompanied by David's wise counselor Ahithophel under gathering clouds."
+  },
+  {
+    "panel_id": 79,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:13-18",
+    "title": "David Flees from Jerusalem",
+    "image_prompt": "Eastern gate of Jerusalem: King David and his household departing in haste, followed by six hundred loyal Gittite warriors and guards marching in disciplined ranks down toward the valley."
+  },
+  {
+    "panel_id": 80,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:19-23",
+    "title": "Ittai's Vow of Lifelong Loyalty",
+    "image_prompt": "Kidron Valley brook: foreign commander Ittai the Gittite raising his hand in solemn oath before King David, pledging that whether in life or death he will follow the king, as the weeping crowd looks on."
+  },
+  {
+    "panel_id": 81,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:24-29",
+    "title": "The Ark Sent Back to the City",
+    "image_prompt": "Kidron crossing: priests Zadok and Abiathar holding the golden Ark of the Covenant on poles, as David gently motions with his staff commanding them to carry the sacred Ark safely back into Jerusalem."
+  },
+  {
+    "panel_id": 82,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:30-31",
+    "title": "David Weeps on the Mount of Olives",
+    "image_prompt": "Steep ascent of the Mount of Olives: King David climbing barefoot with his head covered in mourning, tears streaming down his face as he prays: 'O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.'"
+  },
+  {
+    "panel_id": 83,
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": "15:32-37",
+    "title": "Hushai Sent to Counter the Counsel",
+    "image_prompt": "Summit of the Mount of Olives: David meeting loyal friend Hushai the Archite whose garments are torn, commissioning him to return to Jerusalem to infiltrate Absalom's council as Absalom enters the city gates."
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "panel_id": 1,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:4",
+    "title": "Abishag Cares for Aged David",
+    "image_prompt": "Quiet stone bedchamber in Jerusalem: elderly, frail King David resting under layered woven wool blankets, attended with quiet reverence by young maiden Abishag in modest linen dress and veil, bringing warm cloths beside a glowing charcoal brazier."
+  },
+  {
+    "panel_id": 2,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:5-10",
+    "title": "Adonijah Exalts Himself at En-rogel",
+    "image_prompt": "Spring of En-rogel outside Jerusalem: ambitious prince Adonijah in fine purple robes feasting beside royal chariots and fifty runners with general Joab and priest Abiathar, conspicuously leaving Nathan, Benaiah, and Solomon uninvited."
+  },
+  {
+    "panel_id": 3,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:11-14",
+    "title": "Nathan Warns Bathsheba",
+    "image_prompt": "Secluded palace courtyard: aged prophet Nathan in simple earth-toned robes speaking urgently with Queen Bathsheba in dignified royal mantle, coordinating a petition before King David to secure Solomon's promised succession."
+  },
+  {
+    "panel_id": 4,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:15-27",
+    "title": "Bathsheba and Nathan Appeal to David",
+    "image_prompt": "Royal bedchamber: Bathsheba bowing low before aged King David sitting upright with effort, followed by prophet Nathan entering with head bowed to report Adonijah's unauthorized coronation feast under dim oil lamplight."
+  },
+  {
+    "panel_id": 5,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:28-37",
+    "title": "David Commands Solomon's Anointing",
+    "image_prompt": "King David raising his right hand in solemn oath before Bathsheba, commanding Zadok the priest, Nathan the prophet, and general Benaiah to set young Solomon upon the royal mule and ride to Gihon."
+  },
+  {
+    "panel_id": 6,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:38-40",
+    "title": "Solomon Anointed at the Spring of Gihon",
+    "image_prompt": "Spring of Gihon: youthful Solomon mounted upon David's royal mule, as Zadok the priest pours holy oil from the sanctuary horn over his head, accompanied by sounding ram's horns and joyful crowds crying: 'God save King Solomon!'"
+  },
+  {
+    "panel_id": 7,
+    "book": "1 Kings",
+    "chapter": 1,
+    "verses": "1:41-53",
+    "title": "Adonijah Flees to the Altar Horns",
+    "image_prompt": "Sanctuary courtyard: alarmed Adonijah clutching tightly to the bronze horns of the altar of burnt offering, while a messenger reports King Solomon's conditional pardon and command to go home in peace."
+  },
+  {
+    "panel_id": 8,
+    "book": "1 Kings",
+    "chapter": 2,
+    "verses": "2:1-4",
+    "title": "David's Final Charge to Solomon",
+    "image_prompt": "Intimate bedside scene: dying King David holding young Solomon's hand, looking into his eyes with deep patriarchal intensity, charging him to be strong, show himself a man, and walk in all the statutes of the Lord."
+  },
+  {
+    "panel_id": 9,
+    "book": "1 Kings",
+    "chapter": 2,
+    "verses": "2:5-9",
+    "title": "David's Counsel on the Kingdom",
+    "image_prompt": "David's bedchamber: aged king whispering wise counsel to Solomon regarding the loyalty of Barzillai's sons and the past treachery of Joab and Shimei, with shadows lengthening across the stone floor."
+  },
+  {
+    "panel_id": 10,
+    "book": "1 Kings",
+    "chapter": 2,
+    "verses": "2:10-12",
+    "title": "David Rests with His Fathers",
+    "image_prompt": "City of David: solemn funeral cortege carrying the shroud-wrapped remains of 70-year-old David to the royal tombs, followed by King Solomon seated firmly on the throne in established royal authority."
+  },
+  {
+    "panel_id": 11,
+    "book": "1 Kings",
+    "chapter": 2,
+    "verses": "2:13-25",
+    "title": "Adonijah's Ambitious Request Judged",
+    "image_prompt": "Solomon's throne room: King Solomon seated beside his mother Bathsheba on a raised royal seat, discerning political danger in Adonijah's petition and commissioning commander Benaiah to carry out judgment."
+  },
+  {
+    "panel_id": 12,
+    "book": "1 Kings",
+    "chapter": 2,
+    "verses": "2:26-35",
+    "title": "The Priesthood and Command Established",
+    "image_prompt": "Sanctuary gate: Zadok the priest clothed in spotless white linen vestments stepping into the high priesthood, while Benaiah takes command of the army of Israel before King Solomon."
+  },
+  {
+    "panel_id": 13,
+    "book": "1 Kings",
+    "chapter": 2,
+    "verses": "2:36-46",
+    "title": "Shimei's Broken Oath Judged",
+    "image_prompt": "Judgment hall in Jerusalem: King Solomon confronting Shimei regarding his broken covenant of confinement beyond the Brook Kidron, firmly establishing the kingdom in righteousness and peace."
+  },
+  {
+    "panel_id": 14,
+    "book": "1 Kings",
+    "chapter": 3,
+    "verses": "3:1-4",
+    "title": "Solomon's Sacrifices at Gibeon",
+    "image_prompt": "Great high place of Gibeon at sunrise: young King Solomon standing reverently before a massive stone altar where a thousand offerings ascend in clean white smoke into the morning heavens."
+  },
+  {
+    "panel_id": 15,
+    "book": "1 Kings",
+    "chapter": 3,
+    "verses": "3:5-15",
+    "title": "Solomon Asks for an Understanding Heart",
+    "image_prompt": "Dream vision at Gibeon: Solomon sleeping peacefully on a linen couch bathed in radiant divine golden light, lifting his hands in humble prayer to ask God not for wealth or long life, but for wisdom to govern the people."
+  },
+  {
+    "panel_id": 16,
+    "book": "1 Kings",
+    "chapter": 3,
+    "verses": "3:16-22",
+    "title": "The Two Women Before the King",
+    "image_prompt": "Royal judgment hall: two women in modest attire standing before King Solomon, one holding a living swaddled infant close while the other points across the stone floor in heated dispute before perplexed courtiers."
+  },
+  {
+    "panel_id": 17,
+    "book": "1 Kings",
+    "chapter": 3,
+    "verses": "3:23-28",
+    "title": "The Wisdom of Solomon Revealed",
+    "image_prompt": "Climactic judgment scene: King Solomon watching intently as a royal guard holds a ceremonial bronze sword upright; the true mother rushes forward with hands outstretched in desperate love to yield the living child, revealing her true maternity."
+  },
+  {
+    "panel_id": 18,
+    "book": "1 Kings",
+    "chapter": 4,
+    "verses": "4:1-6",
+    "title": "Solomon's Royal Court and Officers",
+    "image_prompt": "Spacious stone administration hall: King Solomon surrounded by his principal officers, including Azariah the priest, scribes writing with reed pens on papyrus, recorder Jehoshaphat, and commander Benaiah."
+  },
+  {
+    "panel_id": 19,
+    "book": "1 Kings",
+    "chapter": 4,
+    "verses": "4:7-19",
+    "title": "Twelve Officers Over the Land",
+    "image_prompt": "Landscape montage of Israel's twelve districts: regional officers overseeing caravans of laden donkeys and carts carrying golden wheat, olive oil jars, and choice sheep toward Jerusalem from Ephraim, Gilead, and Dor."
+  },
+  {
+    "panel_id": 20,
+    "book": "1 Kings",
+    "chapter": 4,
+    "verses": "4:20-28",
+    "title": "Peace and Abundance from Dan to Beersheba",
+    "image_prompt": "Agrarian paradise: Hebrew families resting peacefully under their own leafy grapevines and fig trees, while royal storehouses in Jerusalem receive bountiful grain, fine flour, and stall-fed oxen."
+  },
+  {
+    "panel_id": 21,
+    "book": "1 Kings",
+    "chapter": 4,
+    "verses": "4:29-34",
+    "title": "The Renowned Wisdom of Solomon",
+    "image_prompt": "Shaded royal colonnade: King Solomon instructing visiting foreign scholars and kings from surrounding nations about cedar trees, creeping plants, birds, and sea creatures, with scribes recording his proverbs."
+  },
+  {
+    "panel_id": 22,
+    "book": "1 Kings",
+    "chapter": 5,
+    "verses": "5:1-6",
+    "title": "Solomon's Message to King Hiram of Tyre",
+    "image_prompt": "Council chamber in Jerusalem: King Solomon presenting an alliance treaty to Phoenician envoys from King Hiram of Tyre, requesting cedar and cypress timbers from the forests of Lebanon for the house of the Lord."
+  },
+  {
+    "panel_id": 23,
+    "book": "1 Kings",
+    "chapter": 5,
+    "verses": "5:7-12",
+    "title": "The Timber Floated on the Mediterranean",
+    "image_prompt": "Mediterranean coastal waters: Phoenician sailors guiding massive timber rafts of trimmed Lebanese cedar and fir along the azure coastline toward the port, while Hebrew caravans deliver wheat and pure olive oil to Tyre."
+  },
+  {
+    "panel_id": 24,
+    "book": "1 Kings",
+    "chapter": 5,
+    "verses": "5:13-18",
+    "title": "Quarrying Foundation Stones in the Mountains",
+    "image_prompt": "Limestone quarries in the Judean hills: thousands of skilled stonemasons using bronze chisels, wooden levers, and measuring lines to shape colossal, costly, dressed foundation stones for the temple."
+  },
+  {
+    "panel_id": 25,
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": "6:1-10",
+    "title": "The Temple Structure Begins on Mount Moriah",
+    "image_prompt": "Summit of Mount Moriah: skilled builders silently laying massive pre-cut dressed stone blocks with plumb lines and wooden scaffolds, raising the 60-cubit-long temple sanctuary without sound of hammer or iron tool on site."
+  },
+  {
+    "panel_id": 26,
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": "6:11-13",
+    "title": "The Divine Promise of Covenant Obedience",
+    "image_prompt": "Construction terrace: King Solomon standing in quiet reverent contemplation as the prophetic word of the Lord comes to him, promising that God will dwell among the children of Israel if he walks in His statutes."
+  },
+  {
+    "panel_id": 27,
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": "6:14-22",
+    "title": "Lining the Sanctuary with Cedar and Pure Gold",
+    "image_prompt": "Interior Holy Place: master artisans fitting carved cedar panels carved with gourds and open flowers, applying sheets of pure gleaming gold over walls, cedar ceiling beams, and the sanctuary altar."
+  },
+  {
+    "panel_id": 28,
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": "6:23-28",
+    "title": "The Colossal Cherubim of Olivewood",
+    "image_prompt": "The Most Holy Place: two colossal olivewood Cherubim, each ten cubits high and overlaid with pure gold, standing with wings outspread five cubits to each side, meeting gracefully in the center over the place of the Ark."
+  },
+  {
+    "panel_id": 29,
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": "6:29-35",
+    "title": "Carved Doors and Cherubim Motifs",
+    "image_prompt": "Sanctuary doorway: craftsmen meticulously carving intricate reliefs of palm trees, open blossoms, and winged cherubim into two-leaved folding doors of olivewood and cypress, overlaid smoothly with fitted gold leaf."
+  },
+  {
+    "panel_id": 30,
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": "6:36-38",
+    "title": "The Temple Completed in Seven Years",
+    "image_prompt": "Wide exterior panorama of Mount Moriah at sunrise: the magnificent, completed temple of the Lord standing pure and white in limestone and cedar, enclosed by the inner court of three rows of hewn stone."
+  },
+  {
+    "panel_id": 31,
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": "7:1-12",
+    "title": "The Palace and the Hall of Pillars",
+    "image_prompt": "Jerusalem royal quarter: King Solomon's expansive palace complex, featuring the House of the Forest of Lebanon with four stately rows of fragrant cedar pillars, spacious halls of judgment, and stone courtyards."
+  },
+  {
+    "panel_id": 32,
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": "7:13-22",
+    "title": "The Bronze Pillars: Jachin and Boaz",
+    "image_prompt": "Temple porch entrance: master artisan Hiram of Tyre inspecting two monumental cast-bronze pillars eighteen cubits high, topped with ornate capitals of woven bronze chainwork, lilies, and two hundred carved pomegranates."
+  },
+  {
+    "panel_id": 33,
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": "7:23-26",
+    "title": "The Great Molten Sea of Bronze",
+    "image_prompt": "Temple courtyard: the colossal circular bronze Sea, ten cubits in diameter with a lily-flower rim, resting securely upon twelve massive bronze oxen grouped in threes facing the four cardinal directions."
+  },
+  {
+    "panel_id": 34,
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": "7:27-39",
+    "title": "Ten Wheeled Bronze Washing Bases",
+    "image_prompt": "Courtyard stone pavement: artisans assembling ten ornate bronze wheeled carriages decorated with relief borders of lions, oxen, and cherubim, each supporting a polished bronze washing laver."
+  },
+  {
+    "panel_id": 35,
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": "7:40-47",
+    "title": "Casting Bronze Vessels in the Jordan Plain",
+    "image_prompt": "Clay foundries in the Jordan plain between Succoth and Zarthan: bronze-smiths pouring glowing molten metal into earthen molds, casting countless burnished bronze pots, shovels, and basins for the temple."
+  },
+  {
+    "panel_id": 36,
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": "7:48-51",
+    "title": "The Golden Vessels of the Inner Sanctuary",
+    "image_prompt": "Interior Holy Place: priests arranging the pure gold Table of Shewbread, ten pure gold lampstands with warm oil flames, golden incense censers, and golden bowls dedicated by David and Solomon."
+  },
+  {
+    "panel_id": 37,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:1-11",
+    "title": "The Ark Enters the Holy of Holies and the Glory Cloud",
+    "image_prompt": "Solemn interior climax: white-robed priests placing the Ark of the Covenant beneath the towering golden wings of the olivewood Cherubim, as a dense, radiant supernatural Glory Cloud fills the temple so the priests cannot stand to minister."
+  },
+  {
+    "panel_id": 38,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:12-21",
+    "title": "Solomon Blesses the Assembly of Israel",
+    "image_prompt": "Courtyard terrace: King Solomon turning toward the vast sea of assembled Israelites, raising his hands in blessing and proclaiming with joy that God has fulfilled His promise made to his father David."
+  },
+  {
+    "panel_id": 39,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:22-30",
+    "title": "Solomon's Prayer of Dedication",
+    "image_prompt": "Before the bronze altar: King Solomon kneeling with hands spread wide toward the open blue heavens, praying with deep reverence: 'Lord God of Israel, there is no God like thee, in heaven above, or on earth beneath.'"
+  },
+  {
+    "panel_id": 40,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:31-40",
+    "title": "Petitions for Forgiveness and Rain",
+    "image_prompt": "Solomon praying atop his bronze scaffold before the temple, with visionary background panels showing Hebrew farmers looking toward heaven for rain during drought and receiving pardon upon repentance."
+  },
+  {
+    "panel_id": 41,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:41-53",
+    "title": "Prayer for the Stranger and the Exiled",
+    "image_prompt": "Outer court of the temple: foreign travelers from distant lands looking toward the sanctuary in reverence, as Solomon prays that all peoples of the earth may know God's name and fear Him."
+  },
+  {
+    "panel_id": 42,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:54-61",
+    "title": "The Royal Benediction Over the People",
+    "image_prompt": "Solomon rising from his knees at the altar, standing tall to speak peace over the quiet, reverent multitude: 'The LORD our God be with us, as he was with our fathers: let him not leave us, nor forsake us.'"
+  },
+  {
+    "panel_id": 43,
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": "8:62-66",
+    "title": "Fourteen Days of Feasting and Joy",
+    "image_prompt": "Vast festival across Jerusalem: thousands of Hebrew families celebrating under awnings and in courtyards for fourteen days, before departing for their homes joyful and glad of heart for all God's goodness."
+  },
+  {
+    "panel_id": 44,
+    "book": "1 Kings",
+    "chapter": 9,
+    "verses": "9:1-9",
+    "title": "The Lord Appears to Solomon a Second Time",
+    "image_prompt": "Nighttime prayer chamber: King Solomon receiving a second solemn divine dream vision, with the Lord confirming his prayer but warning of severe exile if Israel abandons the covenant for other gods."
+  },
+  {
+    "panel_id": 45,
+    "book": "1 Kings",
+    "chapter": 9,
+    "verses": "9:10-14",
+    "title": "Hiram Inspects the Cities of Cabul",
+    "image_prompt": "Hills of western Galilee: King Hiram of Tyre in rich royal Phoenician robes surveying a cluster of humble stone farming villages with disappointment, naming the land Cabul while maintaining peace with Solomon."
+  },
+  {
+    "panel_id": 46,
+    "book": "1 Kings",
+    "chapter": 9,
+    "verses": "9:15-24",
+    "title": "Solomon Fortifies Hazor, Megiddo, and Gezer",
+    "image_prompt": "Mighty four-chambered stone gateway of Megiddo under construction: stonecutters and Israelite overseers building massive defensive battlements and royal chariot stables under bright sun."
+  },
+  {
+    "panel_id": 47,
+    "book": "1 Kings",
+    "chapter": 9,
+    "verses": "9:25-28",
+    "title": "The Trading Fleet at Ezion-geber",
+    "image_prompt": "Red Sea port of Ezion-geber: wooden merchant sailing ships fitted with canvas sails, staffed by experienced Tyrian and Hebrew sailors, departing toward Ophir under desert mountain light."
+  },
+  {
+    "panel_id": 48,
+    "book": "1 Kings",
+    "chapter": 10,
+    "verses": "1-13",
+    "title": "The Queen of Sheba Tests Solomon",
+    "image_prompt": "Jerusalem audience hall: the Queen of Sheba, dressed in magnificent modest southern Arabian royal robes and head veil, marveling in astonishment at King Solomon's wise answers beside chests of gold and spices."
+  },
+  {
+    "panel_id": 49,
+    "book": "1 Kings",
+    "chapter": 10,
+    "verses": "14-22",
+    "title": "The Great Ivory Throne and Golden Shields",
+    "image_prompt": "Palace of Jerusalem: King Solomon seated upon a colossal ivory throne overlaid with pure gold, approached by six stone steps flanked by twelve sculpted golden lions, surrounded by golden drinking goblets."
+  },
+  {
+    "panel_id": 50,
+    "book": "1 Kings",
+    "chapter": 10,
+    "verses": "10:23-29",
+    "title": "The Chariots and Royal Wealth of Israel",
+    "image_prompt": "Valley outside Jerusalem: royal trading caravans arriving with Egyptian horses and cedar timber, with rows of polished wooden war chariots and silver vessels common as stones in the city."
+  },
+  {
+    "panel_id": 51,
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": "11:1-8",
+    "title": "Solomon's Heart Turns Toward High Places",
+    "image_prompt": "Hill facing Jerusalem at twilight: aging King Solomon standing somberly in the distance as foreign shrines and incense altars are built on the Mount of Corruption for Chemosh and Molech, showing tragic spiritual decline."
+  },
+  {
+    "panel_id": 52,
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": "11:9-13",
+    "title": "The Lord Pronounces the Kingdom's Division",
+    "image_prompt": "Palace chamber: King Solomon alone in deep shadow before a small oil lamp, listening with a troubled, burdened countenance to the prophetic decree that the kingdom will be torn from his son for David's sake."
+  },
+  {
+    "panel_id": 53,
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": "11:14-25",
+    "title": "Adversaries Rise: Hadad and Rezon",
+    "image_prompt": "Desert frontier: Prince Hadad of Edom in desert armor leading warriors through the red canyons of Seir, while Rezon builds his military stronghold in Damascus, threatening the northern borders."
+  },
+  {
+    "panel_id": 54,
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": "11:26-33",
+    "title": "Ahijah Tears the New Garment for Jeroboam",
+    "image_prompt": "Open field outside Jerusalem: prophet Ahijah catching young officer Jeroboam on the road, dramatically tearing his new linen mantle into twelve pieces and handing ten pieces to Jeroboam as a sign of ten tribes."
+  },
+  {
+    "panel_id": 55,
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": "11:34-40",
+    "title": "Jeroboam Flees to Shishak in Egypt",
+    "image_prompt": "Egyptian border gate: Jeroboam in travel cloaks arriving on foot in Egypt, welcomed by Pharaoh Shishak's guards, finding political sanctuary until the death of Solomon."
+  },
+  {
+    "panel_id": 56,
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": "11:41-43",
+    "title": "The Death and Burial of King Solomon",
+    "image_prompt": "City of David: solemn funeral cortege of elderly King Solomon carried by mourners to his father's sepulchre, as his son Rehoboam stands in royal mantle before the assembled court."
+  },
+  {
+    "panel_id": 57,
+    "book": "1 Kings",
+    "chapter": 12,
+    "verses": "12:1-11",
+    "title": "Rehoboam Consults the Elders at Shechem",
+    "image_prompt": "Stone assembly hall at Shechem: young King Rehoboam seated on a throne, listening as wise, white-haired elders counsel him to serve the people with kind words, while his young headstrong companions urge harshness."
+  },
+  {
+    "panel_id": 58,
+    "book": "1 Kings",
+    "chapter": 12,
+    "verses": "12:12-16",
+    "title": "Rehoboam's Harsh Answer and the Ten Tribes Rebel",
+    "image_prompt": "Public square of Shechem: Rehoboam speaking harshly to the crowd, prompting the northern tribal leaders to raise their hands and cry out: 'What portion have we in David?... to your tents, O Israel!'"
+  },
+  {
+    "panel_id": 59,
+    "book": "1 Kings",
+    "chapter": 12,
+    "verses": "12:17-20",
+    "title": "Jeroboam Crowned King Over Israel",
+    "image_prompt": "Northern assembly: northern elders acclaiming Jeroboam as king over the ten tribes of Israel, while Rehoboam's royal chariot flees in haste toward the safety of Jerusalem's stone walls."
+  },
+  {
+    "panel_id": 60,
+    "book": "1 Kings",
+    "chapter": 12,
+    "verses": "12:21-24",
+    "title": "Shemaiah Halts Civil War",
+    "image_prompt": "Valley outside Jerusalem: prophet Shemaiah standing unarmed with staff raised before 180,000 assembled warriors of Judah and Benjamin, commanding them to return home because the division is from the Lord."
+  },
+  {
+    "panel_id": 61,
+    "book": "1 Kings",
+    "chapter": 12,
+    "verses": "12:25-33",
+    "title": "Jeroboam's Golden Calves at Bethel and Dan",
+    "image_prompt": "Hilltop shrine at Bethel: King Jeroboam standing before a newly erected sculpted golden calf upon a stone altar, appointing non-Levitical priests and burning unauthorized incense before the northern crowds."
+  },
+  {
+    "panel_id": 62,
+    "book": "1 Kings",
+    "chapter": 13,
+    "verses": "13:1-10",
+    "title": "The Man of God Cries Against Bethel's Altar",
+    "image_prompt": "Bethel altar: a prophet from Judah crying out in prophecy as the stone altar miraculously fractures in half, spilling ashes, while Jeroboam's outstretched reaching hand suddenly withers before being restored in prayer."
+  },
+  {
+    "panel_id": 63,
+    "book": "1 Kings",
+    "chapter": 13,
+    "verses": "13:11-19",
+    "title": "The Old Prophet Deceives the Traveler",
+    "image_prompt": "Shaded road beneath a large oak tree: an old prophet from Bethel dismounting his donkey to speak deceitfully to the resting man of God, falsely claiming an angel instructed him to bring him home for bread."
+  },
+  {
+    "panel_id": 64,
+    "book": "1 Kings",
+    "chapter": 13,
+    "verses": "13:20-24",
+    "title": "The Lion and the Donkey on the Road",
+    "image_prompt": "Solitary mountain road: a noble lion standing peacefully beside a calm, uninjured donkey and the fallen man of God, the lion miraculously refraining from harming either beast or body in solemn divine restraint."
+  },
+  {
+    "panel_id": 65,
+    "book": "1 Kings",
+    "chapter": 13,
+    "verses": "13:25-32",
+    "title": "The Burial of the Man of God at Bethel",
+    "image_prompt": "Stone rock-cut tomb at Bethel: the old prophet weeping as he lays the body of the man of God in his own family sepulchre, charging his sons to bury his own bones beside him because the prophecy is true."
+  },
+  {
+    "panel_id": 66,
+    "book": "1 Kings",
+    "chapter": 13,
+    "verses": "13:33-34",
+    "title": "Jeroboam Persists in Unauthorized Priesthood",
+    "image_prompt": "Northern stone sanctuary: Jeroboam continuing to consecrate common men as priests for the high places, persisting in disobedience against the word of the Lord under gathering storm clouds."
+  },
+  {
+    "panel_id": 67,
+    "book": "1 Kings",
+    "chapter": 14,
+    "verses": "14:1-6",
+    "title": "Jeroboam's Disguised Wife at Shiloh",
+    "image_prompt": "Humble dwelling in Shiloh: blind, elderly prophet Ahijah turning his sightless eyes toward the doorway as Jeroboam's wife enters in common peasant cloaks carrying loaves and honey, immediately calling her by name."
+  },
+  {
+    "panel_id": 68,
+    "book": "1 Kings",
+    "chapter": 14,
+    "verses": "14:7-16",
+    "title": "Ahijah Pronounces Judgment on Jeroboam's House",
+    "image_prompt": "Interior of Ahijah's room: the prophet delivering a grave, piercing prophecy of judgment against the dynasty of Jeroboam, while the queen stands motionless in silent, terrified grief."
+  },
+  {
+    "panel_id": 69,
+    "book": "1 Kings",
+    "chapter": 14,
+    "verses": "14:17-18",
+    "title": "The Threshold of Tirzah and the Prince's Burial",
+    "image_prompt": "Palace entrance at Tirzah: Jeroboam's wife stepping onto the stone threshold as attendants weep, softly announcing the peaceful passing of young prince Abijah, who is mourned by all Israel."
+  },
+  {
+    "panel_id": 70,
+    "book": "1 Kings",
+    "chapter": 14,
+    "verses": "14:19-20",
+    "title": "The End of Jeroboam's Reign",
+    "image_prompt": "Northern capital: royal scribes recording the 22-year chronicles of Jeroboam, with his son Nadab stepping forward to receive the royal northern staff of office."
+  },
+  {
+    "panel_id": 71,
+    "book": "1 Kings",
+    "chapter": 14,
+    "verses": "14:21-31",
+    "title": "Shishak of Egypt Strips Jerusalem's Gold",
+    "image_prompt": "Temple gates of Jerusalem: Egyptian soldiers under Pharaoh Shishak carrying away Solomon's golden shields and palace treasures, with Rehoboam later replacing them with polished bronze shields for his palace guard."
+  },
+  {
+    "panel_id": 72,
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": "15:1-8",
+    "title": "Abijam's Brief Reign Over Judah",
+    "image_prompt": "Jerusalem fortress: young King Abijam ruling with his counselors beside the city wall, maintaining border defense against the northern kingdom during his three-year reign in the City of David."
+  },
+  {
+    "panel_id": 73,
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": "15:9-15",
+    "title": "King Asa's Righteous Religious Reforms",
+    "image_prompt": "Valley of Kidron: righteous young King Asa directing workers to cut down and burn a wooden Asherah idol by the brook, deposing Queen Maachah and bringing silver and gold vessels into the temple."
+  },
+  {
+    "panel_id": 74,
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": "15:16-22",
+    "title": "Asa Fortifies Geba with Ramah's Stones",
+    "image_prompt": "Border town of Geba: Judah's builders using heavy hewn stone blocks and timber dismantled from Baasha's abandoned fortress at Ramah to construct strong towers and defensive walls."
+  },
+  {
+    "panel_id": 75,
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": "15:23-24",
+    "title": "Asa's Later Years and Jehoshaphat's Accession",
+    "image_prompt": "City of David: elderly King Asa resting his diseased feet with royal physicians in his palace, followed by the public presentation of righteous young Prince Jehoshaphat as his royal successor."
+  },
+  {
+    "panel_id": 76,
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": "15:25-31",
+    "title": "Baasha's Coup at Gibbethon",
+    "image_prompt": "Military siege lines outside Philistine Gibbethon: conspirator Baasha acclaimed by northern troops in the camp, bringing an end to the dynasty of Jeroboam according to the word of Ahijah."
+  },
+  {
+    "panel_id": 77,
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": "15:32-34",
+    "title": "Baasha Reigns in Tirzah",
+    "image_prompt": "Northern capital of Tirzah: King Baasha holding court with his military captains, continuing the political conflict with Judah while maintaining the northern altars established by Jeroboam."
+  }
+]

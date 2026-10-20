@@ -1,0 +1,226 @@
+[
+  {
+    "panel_id": 1,
+    "book": "Esther",
+    "chapter": 1,
+    "verses": "1:1-8",
+    "title": "Ahasuerus Holds a Great Royal Feast",
+    "image_prompt": "Palace of Susa: King Ahasuerus displaying imperial splendor during a royal banquet under colored linen awnings, surrounded by marble pillars, silver couches, and golden drinking vessels."
+  },
+  {
+    "panel_id": 2,
+    "book": "Esther",
+    "chapter": 1,
+    "verses": "1:9-12",
+    "title": "Queen Vashti Refuses the King's Summons",
+    "image_prompt": "Women's palace banquet hall: Queen Vashti, seated with dignity among royal women, calmly refusing the command of the king's seven chamberlains to present herself before the men's banquet."
+  },
+  {
+    "panel_id": 3,
+    "book": "Esther",
+    "chapter": 1,
+    "verses": "1:13-22",
+    "title": "The Counsel of the Sages and the Imperial Decree",
+    "image_prompt": "Persian council chamber: Memucan and royal counselors advising King Ahasuerus, while scribes copy sealed imperial letters to be dispatched across the 127 provinces of the empire."
+  },
+  {
+    "panel_id": 4,
+    "book": "Esther",
+    "chapter": 2,
+    "verses": "2:1-11",
+    "title": "Esther in the Royal Citadel",
+    "image_prompt": "Garden courtyard of the women's palace: young modest Esther listening respectfully to royal keeper Hegai, while cousin Mordecai walks daily before the outer court to inquire after her well-being."
+  },
+  {
+    "panel_id": 5,
+    "book": "Esther",
+    "chapter": 2,
+    "verses": "2:12-18",
+    "title": "Esther Crowned Queen of Persia",
+    "image_prompt": "Throne hall of Susa: King Ahasuerus setting the royal golden crown upon Queen Esther's head, surrounded by court nobles during a grand holiday feast in her honor."
+  },
+  {
+    "panel_id": 6,
+    "book": "Esther",
+    "chapter": 2,
+    "verses": "2:19-23",
+    "title": "Mordecai Uncovers the Treasonous Plot",
+    "image_prompt": "King's stone gate: Mordecai sitting attentively by the entrance, overhearing two conspirators whispering, before reporting the plot to Queen Esther who informs the king in Mordecai's name."
+  },
+  {
+    "panel_id": 7,
+    "book": "Esther",
+    "chapter": 3,
+    "verses": "3:1-6",
+    "title": "Mordecai Refuses to Bow to Haman",
+    "image_prompt": "Palace entrance: proud Prime Minister Haman passing in rich robes as royal servants bow to the ground, while solitary Mordecai the Jew stands upright in quiet spiritual conviction."
+  },
+  {
+    "panel_id": 8,
+    "book": "Esther",
+    "chapter": 3,
+    "verses": "3:7-11",
+    "title": "Haman Casts Lots and Secures the Signet Ring",
+    "image_prompt": "Council chamber: Haman casting lots (Pur) on a carved stone table, then bowing before King Ahasuerus who hands him the royal golden signet ring to seal the edict."
+  },
+  {
+    "panel_id": 9,
+    "book": "Esther",
+    "chapter": 3,
+    "verses": "3:12-15",
+    "title": "The Threatening Decree Dispatched",
+    "image_prompt": "Courtyard of Susa: royal scribes writing Haman's decree on parchment, dispatching mounted couriers on swift royal horses carrying sealed scrolls, as the city of Susa is thrown into confusion."
+  },
+  {
+    "panel_id": 10,
+    "book": "Esther",
+    "chapter": 4,
+    "verses": "4:1-8",
+    "title": "Mordecai and the People Mourn in Sackcloth",
+    "image_prompt": "Public square outside the king's gate: Mordecai crying aloud in sackcloth and ashes, handing a copy of the written decree to Queen Esther's chamberlain Hathach."
+  },
+  {
+    "panel_id": 11,
+    "book": "Esther",
+    "chapter": 4,
+    "verses": "4:9-14",
+    "title": "For Such a Time as This",
+    "image_prompt": "Private palace apartment: chamberlain Hathach delivering Mordecai's piercing challenge to Queen Esther: 'Who knoweth whether thou art come to the kingdom for such a time as this?'"
+  },
+  {
+    "panel_id": 12,
+    "book": "Esther",
+    "chapter": 4,
+    "verses": "4:15-17",
+    "title": "Esther Calls for a Three-Day Fast",
+    "image_prompt": "Esther's chamber: Queen Esther and her maidens kneeling in solemn three-day fasting and prayer, resolved to approach the king with the words: 'If I perish, I perish.'"
+  },
+  {
+    "panel_id": 13,
+    "book": "Esther",
+    "chapter": 5,
+    "verses": "5:1-8",
+    "title": "The Golden Sceptre Extended",
+    "image_prompt": "Throne room of Susa: Queen Esther standing in royal robes in the inner court; King Ahasuerus extends his golden sceptre to her, and she steps forward to touch its top with reverent grace."
+  },
+  {
+    "panel_id": 14,
+    "book": "Esther",
+    "chapter": 5,
+    "verses": "5:9-14",
+    "title": "Haman Boasts to Zeresh and His Friends",
+    "image_prompt": "Haman's lavish courtyard: proud Haman boasting of his riches and banquet invitation to his wife Zeresh, while planning a high wooden gallows for Mordecai under evening torchlight."
+  },
+  {
+    "panel_id": 15,
+    "book": "Esther",
+    "chapter": 6,
+    "verses": "6:1-5",
+    "title": "The King's Sleepless Night and the Chronicles",
+    "image_prompt": "Royal bedchamber at midnight: King Ahasuerus awake on his couch, listening as an attendant reads from the book of the chronicles describing how Mordecai saved the king's life."
+  },
+  {
+    "panel_id": 16,
+    "book": "Esther",
+    "chapter": 6,
+    "verses": "6:6-11",
+    "title": "Haman Leads Mordecai in Honor",
+    "image_prompt": "City streets of Susa: shocked Haman leading the king's royal horse carrying Mordecai dressed in the king's royal robes and crown, proclaiming: 'Thus shall it be done unto the man whom the king delighteth to honour!'"
+  },
+  {
+    "panel_id": 17,
+    "book": "Esther",
+    "chapter": 6,
+    "verses": "6:12-14",
+    "title": "Zeresh Warns Haman",
+    "image_prompt": "Haman's home: Haman mourning with head covered as his wife Zeresh warns him of his impending fall, just as royal chamberlains arrive to escort him to Esther's banquet."
+  },
+  {
+    "panel_id": 18,
+    "book": "Esther",
+    "chapter": 7,
+    "verses": "7:1-6",
+    "title": "Esther Exposes the Adversary",
+    "image_prompt": "Royal banquet table: Queen Esther pointing with righteous courage across the table, declaring: 'The adversary and enemy is this wicked Haman!', as Haman trembles in terror before the furious king."
+  },
+  {
+    "panel_id": 19,
+    "book": "Esther",
+    "chapter": 7,
+    "verses": "7:7-10",
+    "title": "The Downfall of Haman",
+    "image_prompt": "Banquet chamber: King Ahasuerus returning from the palace garden in wrath, ordering royal guards to cover Haman's face and lead him away to the gallows he had prepared for Mordecai."
+  },
+  {
+    "panel_id": 20,
+    "book": "Esther",
+    "chapter": 8,
+    "verses": "8:1-8",
+    "title": "Mordecai Receives the Royal Signet Ring",
+    "image_prompt": "Throne room: King Ahasuerus handing his golden signet ring to Mordecai, while Queen Esther looks on with grateful joy, authorized to write a decree for the protection of her people."
+  },
+  {
+    "panel_id": 21,
+    "book": "Esther",
+    "chapter": 8,
+    "verses": "8:9-14",
+    "title": "The Counter-Decree of Defense Dispatched",
+    "image_prompt": "Scribes' hall in Susa: royal scribes writing Mordecai's decree granting the Jews the right to unite and defend their lives, dispatching couriers on royal dromedaries and swift horses."
+  },
+  {
+    "panel_id": 22,
+    "book": "Esther",
+    "chapter": 8,
+    "verses": "8:15-17",
+    "title": "Mordecai in Royal Apparel and the City Rejoices",
+    "image_prompt": "City of Susa: Mordecai stepping into the public square clothed in royal blue and white garments with a great crown of gold, as Jewish families celebrate with light, gladness, joy, and honor."
+  },
+  {
+    "panel_id": 23,
+    "book": "Esther",
+    "chapter": 9,
+    "verses": "9:1-5",
+    "title": "The Day of Deliverance and Defense",
+    "image_prompt": "Thirteenth day of Adar: Jewish communities standing united and resolute under the protection of royal officials across provincial towns, turning a day of danger into triumphant deliverance."
+  },
+  {
+    "panel_id": 24,
+    "book": "Esther",
+    "chapter": 9,
+    "verses": "9:6-15",
+    "title": "The Report to the King and Esther's Petition",
+    "image_prompt": "Throne room: King Ahasuerus and Queen Esther reviewing the official provincial defense report, with Esther making a formal petition for continued peace and justice in Susa."
+  },
+  {
+    "panel_id": 25,
+    "book": "Esther",
+    "chapter": 9,
+    "verses": "9:16-19",
+    "title": "Rest, Gladness, and Sending Portions",
+    "image_prompt": "Provincial towns on the fourteenth of Adar: Jewish families celebrating peaceful survival at shared tables, sending gifts of cakes, fruits, and wine portions to one another with radiant smiles."
+  },
+  {
+    "panel_id": 26,
+    "book": "Esther",
+    "chapter": 9,
+    "verses": "9:20-28",
+    "title": "Mordecai Establishes the Feast of Purim",
+    "image_prompt": "Mordecai's study: Mordecai sealing letters sent to all provinces establishing the fourteenth and fifteenth of Adar as the perpetual annual Feast of Purim, celebrating days turned from sorrow to joy."
+  },
+  {
+    "panel_id": 27,
+    "book": "Esther",
+    "chapter": 9,
+    "verses": "9:29-32",
+    "title": "Queen Esther Confirms the Purim Letters",
+    "image_prompt": "Royal chamber: Queen Esther in royal mantle writing with authority alongside Mordecai, confirming the second letter of Purim with fasts, prayers, and rejoicing for all generations."
+  },
+  {
+    "panel_id": 28,
+    "book": "Esther",
+    "chapter": 10,
+    "verses": "10:1-3",
+    "title": "Mordecai's Greatness and Lasting Peace",
+    "image_prompt": "Grand Persian court: Mordecai, second in power to King Ahasuerus, surrounded by visiting provincial elders and scribes, seeking the wealth of his people and speaking peace to all his seed."
+  }
+]

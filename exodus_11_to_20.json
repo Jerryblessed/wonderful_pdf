@@ -1,0 +1,210 @@
+[
+    {
+        "panel_id": 24,
+        "book": "Exodus",
+        "chapter": 11,
+        "verses": "11:4-8",
+        "title": "Warning of the Midnight Judgment",
+        "image_prompt": "Imperial Egyptian palace hall: Moses, draped in a dignified prophet's mantle, standing fearless and resolute before Pharaoh's throne at sunset, delivering the solemn warning of the final midnight judgment with an arm raised toward heaven."
+    },
+    {
+        "panel_id": 25,
+        "book": "Exodus",
+        "chapter": 12,
+        "verses": "12:1-11",
+        "title": "The Passover Lamb Prepared",
+        "image_prompt": "Warmly lit interior of a humble Hebrew home in Goshen: a reverent family gathered around a wooden table sharing roasted lamb with bitter herbs and unleavened flatbread, dressed in modest travel tunics with belts fastened, sandals on their feet, and wooden staves in hand, eating in quiet haste."
+    },
+    {
+        "panel_id": 26,
+        "book": "Exodus",
+        "chapter": 12,
+        "verses": "12:21-28",
+        "title": "Blood on the Doorposts",
+        "image_prompt": "Exterior of a Goshen dwelling at dusk: a Hebrew father kneeling beside a stone basin, dipping a fresh green bundle of hyssop into the lamb's blood and brushing it across the two wooden doorposts and upper lintel in solemn obedience and faith."
+    },
+    {
+        "panel_id": 27,
+        "book": "Exodus",
+        "chapter": 12,
+        "verses": "12:29-30",
+        "title": "The Midnight Cry in Egypt",
+        "image_prompt": "Eerie midnight over the stone palaces and dwellings of Egypt: dark shadows passing over unblemished temples while weeping Egyptian families, fully clothed in modest high-necked linen robes, mourn in grief, contrasted with the quiet, blood-marked Hebrew homes standing peaceful under the starlit sky."
+    },
+    {
+        "panel_id": 28,
+        "book": "Exodus",
+        "chapter": 12,
+        "verses": "12:31-42",
+        "title": "The Great Midnight Exodus",
+        "image_prompt": "Vast wide panoramic view: the massive host of Israel departing under the moonlight, men, women, and children all dressed in loose, modest, full-length traveling robes and cloaks with head coverings, carrying wooden kneading bowls wrapped in mantles upon their shoulders alongside vast herds of sheep and cattle."
+    },
+    {
+        "panel_id": 29,
+        "book": "Exodus",
+        "chapter": 13,
+        "verses": "13:17-19",
+        "title": "Carrying the Bones of Joseph",
+        "image_prompt": "The caravan marching resolutely into the desert wilderness: Hebrew elders carrying a consecrated, ornate cedar coffin containing the bones of Joseph, with Moses leading the way across golden desert sands."
+    },
+    {
+        "panel_id": 30,
+        "book": "Exodus",
+        "chapter": 13,
+        "verses": "13:20-22",
+        "title": "The Pillar of Cloud and Fire",
+        "image_prompt": "Split day-and-night atmospheric masterwork: a colossal, towering Pillar of Cloud guiding the camp across the daytime desert sands, transitioning seamlessly into a magnificent, radiant Pillar of Fire blazing supernaturally against the night sky, casting a warm holy glow over the entire encampment."
+    },
+    {
+        "panel_id": 31,
+        "book": "Exodus",
+        "chapter": 14,
+        "verses": "14:5-14",
+        "title": "Trapped by the Red Sea",
+        "image_prompt": "Wide dramatic perspective: the camp of Israel resting on the sandy shores of Pi-hahiroth with the deep turquoise Red Sea before them, looking back in alarm to see the rising dust of Pharaoh's 600 gleaming bronze war chariots charging over the distant dunes."
+    },
+    {
+        "panel_id": 32,
+        "book": "Exodus",
+        "chapter": 14,
+        "verses": "14:19-20",
+        "title": "The Angel Moves Behind Israel",
+        "image_prompt": "High-contrast dusk scene: the supernatural Pillar of Cloud gracefully shifting from the front to stand as a colossal shield between the Egyptian army and the Hebrew camp, casting deep impenetrable darkness toward the Egyptians while radiating bright heavenly light upon the camp of Israel."
+    },
+    {
+        "panel_id": 33,
+        "book": "Exodus",
+        "chapter": 14,
+        "verses": "14:21-22",
+        "title": "The Parting of the Red Sea",
+        "image_prompt": "Epic wide-angle miracle: Moses standing atop a rocky promontory stretching his wooden staff over the churning waters, a powerful east wind parting the Red Sea into towering colossal walls of crystalline water on the right and left, revealing a wide, dry sandy seabed pathway."
+    },
+    {
+        "panel_id": 34,
+        "book": "Exodus",
+        "chapter": 14,
+        "verses": "14:26-31",
+        "title": "The Waters Return Upon the Chariots",
+        "image_prompt": "Dawn breaking over the sea: Moses stretching his hand over the waters as the massive liquid walls collapse in thunderous waves over the pursuing Egyptian chariots and armor, with the delivered people of Israel standing safe on the eastern shore looking on with holy reverence."
+    },
+    {
+        "panel_id": 35,
+        "book": "Exodus",
+        "chapter": 15,
+        "verses": "15:1-19",
+        "title": "The Song of Moses and Israel",
+        "image_prompt": "Elevated wide view of the eastern seashore at sunrise: Moses and the assembly of Israel lifting hands toward heaven in solemn, triumphant praise, looking out over the calm morning sea reflecting the golden sunrise."
+    },
+    {
+        "panel_id": 36,
+        "book": "Exodus",
+        "chapter": 15,
+        "verses": "15:20-21",
+        "title": "Miriam's Sacred Praise",
+        "image_prompt": "Wide, respectful eye-level composition: Prophetess Miriam and Hebrew women, all dressed in completely modest, loose-fitting, high-necked linen robes with long draping sleeves and flowing head mantles covering their hair, lifting small round wooden timbrels toward the morning sky in pure, joyful, reverent worship by the seashore."
+    },
+    {
+        "panel_id": 37,
+        "book": "Exodus",
+        "chapter": 15,
+        "verses": "15:22-27",
+        "title": "The Waters of Marah and the Palms of Elim",
+        "image_prompt": "Desert journey progression: Moses casting a branch of a desert tree into the bitter spring pool of Marah as people drink the sweetened water, leading forward to the lush oasis of Elim with seventy swaying date palm trees and twelve bubbling freshwater springs."
+    },
+    {
+        "panel_id": 38,
+        "book": "Exodus",
+        "chapter": 16,
+        "verses": "16:11-15",
+        "title": "Quails in Evening and Manna at Dawn",
+        "image_prompt": "Misty desert morning in the Wilderness of Sin: Hebrew families kneeling reverently to gather small, delicate, round white flakes of bread from heaven resembling coriander seed resting on the morning dew, following an evening where peaceful quails covered the camp perimeter."
+    },
+    {
+        "panel_id": 39,
+        "book": "Exodus",
+        "chapter": 16,
+        "verses": "16:22-34",
+        "title": "The Sabbath Bread and the Golden Pot",
+        "image_prompt": "Inside a tent sanctuary: Aaron carefully pouring white heavenly manna into an ornate golden urn to be preserved for future generations, while outside the tents families enjoy peaceful holy Sabbath rest under clear desert skies."
+    },
+    {
+        "panel_id": 40,
+        "book": "Exodus",
+        "chapter": 17,
+        "verses": "17:1-7",
+        "title": "Water from the Rock at Horeb",
+        "image_prompt": "Dramatic rocky crags of Horeb: Moses striking the massive granite boulder with the rod of God in the sight of the elders, a powerful torrent of pure, refreshing crystalline water bursting out of the split rock, flowing into streams through the dry gravel."
+    },
+    {
+        "panel_id": 41,
+        "book": "Exodus",
+        "chapter": 17,
+        "verses": "17:8-13",
+        "title": "Aaron and Hur Hold Up Moses' Hands",
+        "image_prompt": "High rocky hilltop overlooking the valley of Rephidim: elderly Moses seated on a smooth stone, weary hands holding the rod of God held steady by faithful Aaron on one side and Hur on the other until the sunset, as Joshua leads the battle below."
+    },
+    {
+        "panel_id": 42,
+        "book": "Exodus",
+        "chapter": 17,
+        "verses": "17:14-16",
+        "title": "The Altar Jehovah-nissi",
+        "image_prompt": "Solitary hilltop at twilight: Moses standing with hands clasped in thanksgiving beside a newly built stone altar named Jehovah-nissi (The LORD is my Banner), a gentle evening breeze stirring his linen robe against a peaceful violet horizon."
+    },
+    {
+        "panel_id": 43,
+        "book": "Exodus",
+        "chapter": 18,
+        "verses": "18:1-12",
+        "title": "Jethro Brings Zipporah and Sons",
+        "image_prompt": "Dignified, modest family reunion outside the desert camp: Moses bowing low with deep respect to embrace father-in-law Jethro; wife Zipporah, draped in a graceful, loose, full-coverage desert traveling robe and head veil, standing modestly beside her two young sons Gershom and Eliezer."
+    },
+    {
+        "panel_id": 44,
+        "book": "Exodus",
+        "chapter": 18,
+        "verses": "18:13-26",
+        "title": "Jethro's Counsel on Judges",
+        "image_prompt": "Shaded pavilion tent: wise elder Jethro speaking warmly with Moses, gesturing toward organized smaller circles of God-fearing Hebrew elders and leaders of thousands, hundreds, and tens counseling the people across the camp with justice."
+    },
+    {
+        "panel_id": 45,
+        "book": "Exodus",
+        "chapter": 19,
+        "verses": "19:1-8",
+        "title": "Encampment at Mount Sinai",
+        "image_prompt": "Grand sweeping landscape: thousands of white canvas and dark goat-hair tents of Israel pitched in orderly rows in the vast desert plain before the towering, imposing red granite massif of Mount Sinai rising sharply into a clean morning sky."
+    },
+    {
+        "panel_id": 46,
+        "book": "Exodus",
+        "chapter": 19,
+        "verses": "19:16-20",
+        "title": "The Mountain of Fire and Smoke",
+        "image_prompt": "Awe-inspiring divine manifestation: Mount Sinai completely enveloped in thick billowing dark smoke and supernatural blazing fire descending from heaven, dramatic flashes of celestial lightning and clouds shaking the summit like a furnace, as the trumpet sounds exceedingly loud."
+    },
+    {
+        "panel_id": 47,
+        "book": "Exodus",
+        "chapter": 20,
+        "verses": "20:1-17",
+        "title": "The Voice of the Ten Commandments",
+        "image_prompt": "Moses ascending the rocky path toward the summit into the sacred divine golden cloud, looking up in sacred awe as the divine voice proclaims the holy commandments, celestial light piercing the storm clouds."
+    },
+    {
+        "panel_id": 48,
+        "book": "Exodus",
+        "chapter": 20,
+        "verses": "20:18-21",
+        "title": "The People Tremble at the Mountain",
+        "image_prompt": "Wide, reverent view from the plain: the assembly of Israel, men, women, and children fully draped in modest robes and mantles, standing far back from the mountain boundary in profound holy awe, watching the flashes of lightning and smoking mountain."
+    },
+    {
+        "panel_id": 49,
+        "book": "Exodus",
+        "chapter": 20,
+        "verses": "20:22-26",
+        "title": "The Altar of Uncut Stone",
+        "image_prompt": "Humble sacred altar built at the mountain base: a low altar made of natural, unhewn, untouched field stones without chisel marks, surrounded by clean earth, peaceful morning light shining upon the sacred offering."
+    }
+]

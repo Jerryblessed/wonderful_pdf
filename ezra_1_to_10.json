@@ -1,0 +1,226 @@
+[
+    {
+        "panel_id": 1,
+        "book": "Ezra",
+        "chapter": 1,
+        "verses": "1:1-4",
+        "title": "Cyrus Proclaims the Return",
+        "image_prompt": "Biblical historical realism in the Persian Empire, around the period when Babylonian rule has ended. King Cyrus issues a public proclamation allowing the LORD's people to return to Jerusalem and rebuild the house of God. Persian officials and scribes stand beside the royal decree, while Jewish elders listen attentively. Include a broad imperial hall, clay tablets, parchment, and ancient Persian clothing; no modern objects."
+    },
+    {
+        "panel_id": 2,
+        "book": "Ezra",
+        "chapter": 1,
+        "verses": "1:5-11",
+        "title": "The Exiles Prepare to Return and the Temple Vessels Are Restored",
+        "image_prompt": "Heads of Judah and Benjamin, priests, and Levites prepare to return to Jerusalem, encouraged by neighbors who contribute silver, gold, goods, livestock, and freewill offerings. Cyrus also releases the vessels Nebuchadnezzar had taken from the Jerusalem temple. Show Sheshbazzar receiving carefully counted temple vessels from Mithredath, including gold and silver bowls and other sacred objects, while scribes inventory them. End with the returnees assembling for the journey, with the sacred vessels secured for transport."
+    },
+    {
+        "panel_id": 3,
+        "book": "Ezra",
+        "chapter": 2,
+        "verses": "2:1-35",
+        "title": "The Families and Towns of the Returning Exiles",
+        "image_prompt": "A carefully designed genealogical register displays the returned families and their ancestral towns, beginning with the people of the province who came up from captivity. Show family groups from Parosh, Shephatiah, Arah, Pahath-moab, Elam, Zattu, Zaccai, Bani, Bebai, Azgad, Adonikam, Bigvai, Adin, Ater, Bezai, Jorah, Hashum, Gibbar, and other named houses through verse 35. The panel should look like a visual census: a long parchment divided into legible columns, with small household scenes and travelers carrying bundles, not one implausibly simultaneous gathering."
+    },
+    {
+        "panel_id": 4,
+        "book": "Ezra",
+        "chapter": 2,
+        "verses": "2:36-58",
+        "title": "Priests, Levites, Singers, Gatekeepers, and Temple Servants",
+        "image_prompt": "Continue the returnee registry with priests, including the houses of Jedaiah, Immer, Pashur, and Harim; Levites and singers; gatekeepers; and the Nethinim or temple servants and the descendants of Solomon's servants. Show distinct groups in appropriate roles—priests in simple linen garments, singers with ancient instruments, gatekeepers near a doorway, and service families with tools and supplies. Preserve the passage's emphasis on family names and assigned service rather than inventing specific actions for every listed person."
+    },
+    {
+        "panel_id": 5,
+        "book": "Ezra",
+        "chapter": 2,
+        "verses": "2:59-63",
+        "title": "Some Families Cannot Prove Their Ancestry",
+        "image_prompt": "Several families arrive from Tel-melah, Tel-harsa, Cherub, Addan, and Immer but cannot establish their ancestral houses or whether their lineage is Israelite. Certain priestly families are excluded from priestly service until a priest can consult the Urim and Thummim. Show the officials reviewing records as worried families wait respectfully; a priest holds a closed sacred pouch or vestment without suggesting a detailed mechanism not described in the passage."
+    },
+    {
+        "panel_id": 6,
+        "book": "Ezra",
+        "chapter": 2,
+        "verses": "2:64-70",
+        "title": "The Assembly and Its Offerings",
+        "image_prompt": "The returning congregation totals 42,360 people, in addition to servants and singers; the text also records horses, mules, camels, and donkeys. Family heads give freewill offerings for rebuilding the house of God, and the people settle in their ancestral towns. Show a broad camp outside Jerusalem, animals and travel gear, leaders contributing treasure to a central store, and families departing toward villages. The mood combines gratitude, exhaustion, and hope."
+    },
+    {
+        "panel_id": 7,
+        "book": "Ezra",
+        "chapter": 3,
+        "verses": "3:1-6",
+        "title": "The Altar Is Restored",
+        "image_prompt": "In the seventh month, the people gather as one in Jerusalem, and Jeshua son of Jozadak with his fellow priests, along with Zerubbabel son of Shealtiel and his companions, rebuild the altar of the God of Israel. They offer burnt offerings according to the law even though they fear the surrounding peoples. Show the newly set altar amid the ruins of Jerusalem, priests carefully arranging wood and offerings, families standing at a respectful distance, and smoke rising into the morning sky."
+    },
+    {
+        "panel_id": 8,
+        "book": "Ezra",
+        "chapter": 3,
+        "verses": "3:7-13",
+        "title": "The Temple Foundations Are Laid",
+        "image_prompt": "The people hire masons and carpenters and obtain cedar from Lebanon, using resources and permissions associated with Cyrus's decree. In the second year after their arrival, Zerubbabel, Jeshua, and the Levites supervise the work. Priests in garments with trumpets and Levites with cymbals praise the LORD as the foundation is laid. Younger people shout for joy, while older priests and family heads who remember the former Temple weep aloud. Show both reactions together, the stone foundation in foreground and a crowd whose emotions are mixed rather than uniform."
+    },
+    {
+        "panel_id": 9,
+        "book": "Ezra",
+        "chapter": 4,
+        "verses": "4:1-5",
+        "title": "Opposition to the Rebuilding Begins",
+        "image_prompt": "The adversaries of Judah and Benjamin offer to help build the Temple, claiming they also seek the God of Israel, but Zerubbabel, Jeshua, and the family heads decline because the work is entrusted to the returned community under Cyrus's decree. The neighboring peoples then discourage the builders and hire counselors to frustrate their plans. Show a tense meeting beside the temple foundations, Persian-era messengers, and construction workers continuing despite the challenge."
+    },
+    {
+        "panel_id": 10,
+        "book": "Ezra",
+        "chapter": 4,
+        "verses": "4:6-16",
+        "title": "Accusations Are Sent Against Jerusalem",
+        "image_prompt": "The chapter includes later opposition during the reigns of Ahasuerus and Artaxerxes. A formal accusation portrays Jerusalem as rebellious and warns that a rebuilt city and its walls could threaten imperial control and reduce royal revenue. Show scribes preparing a petition in Aramaic, officials sealing a letter, and a schematic drawing of Jerusalem attached as an administrative illustration. The visual note should make clear this is a later episode inserted into the account of opposition, not necessarily the immediate next day after the foundation work."
+    },
+    {
+        "panel_id": 11,
+        "book": "Ezra",
+        "chapter": 4,
+        "verses": "4:17-24",
+        "title": "The Royal Order Stops the Work",
+        "image_prompt": "Artaxerxes replies to the accusation and orders officials to enforce a halt until further command. The opponents travel quickly to Jerusalem and use force to stop the work. Show an imperial response being read to local officials, builders laying down tools, guards entering the worksite, and the unfinished Temple standing quiet. The account says the work remains halted until the second year of Darius, setting up the later resumption."
+    },
+    {
+        "panel_id": 12,
+        "book": "Ezra",
+        "chapter": 5,
+        "verses": "5:1-5",
+        "title": "Haggai and Zechariah Encourage the Builders",
+        "image_prompt": "The prophets Haggai and Zechariah prophesy to the Jews in Judah and Jerusalem in the name of Israel's God. Zerubbabel and Jeshua rise up and resume building the house of God, while the prophets support them. Local officials inspect the work, but God's eye is upon the elders and the builders are not stopped while a report is sent to Darius. Show the prophets addressing workers among the stone foundations and the governor's officials observing the renewed activity."
+    },
+    {
+        "panel_id": 13,
+        "book": "Ezra",
+        "chapter": 5,
+        "verses": "5:6-17",
+        "title": "Tattenai Asks the King About the Temple",
+        "image_prompt": "Tattenai, governor beyond the River, Shethar-bozenai, and their companions send Darius a report about the rebuilt Temple. They ask who authorized the work and record the elders' answer: they are servants of the God of heaven and earth, rebuilding a house that had stood for many generations before Nebuchadnezzar destroyed it. Show the officials carefully questioning the elders, taking notes, and dispatching an official letter to the Persian court. The unfinished building and its builders remain central."
+    },
+    {
+        "panel_id": 14,
+        "book": "Ezra",
+        "chapter": 6,
+        "verses": "6:1-12",
+        "title": "Darius Finds Cyrus's Decree",
+        "image_prompt": "Darius orders a search of the royal archives, and a record is found at Achmetha in the province of Media. Cyrus's decree authorizes the Temple's rebuilding, specifies its dimensions and construction materials, and orders the sacred vessels restored. Darius commands Tattenai and the other officials not to interfere, to pay expenses from royal revenue, and to provide animals and offerings for the priests. Show Persian scribes unrolling an old decree and officials receiving Darius's new order with the royal seal."
+    },
+    {
+        "panel_id": 15,
+        "book": "Ezra",
+        "chapter": 6,
+        "verses": "6:13-18",
+        "title": "The Temple Is Completed and Dedicated",
+        "image_prompt": "Tattenai and his colleagues comply, and the elders prosper through the prophecies of Haggai and Zechariah. The Temple is finished in the sixth year of Darius. The returned community dedicates it with joy, offering dedicatory sacrifices along with offerings for the tribes of Israel; priests and Levites are set in their divisions as written in the law of Moses. Show the completed Second Temple, priests serving in ordered groups, and the gathered people celebrating with reverence."
+    },
+    {
+        "panel_id": 16,
+        "book": "Ezra",
+        "chapter": 6,
+        "verses": "6:19-22",
+        "title": "Passover and the Feast of Unleavened Bread",
+        "image_prompt": "The returned exiles keep Passover on the fourteenth day of the first month. Priests and Levites purify themselves, the people who have returned from exile eat the Passover, and they celebrate the Feast of Unleavened Bread for seven days with joy because the LORD has turned the king's heart toward them. Show households sharing the Passover meal in the restored community, unleavened bread, lamps, and the Temple visible in the background. Keep the observance ancient and respectful."
+    },
+    {
+        "panel_id": 17,
+        "book": "Ezra",
+        "chapter": 7,
+        "verses": "7:1-10",
+        "title": "Ezra's Lineage and Journey to Jerusalem",
+        "image_prompt": "Ezra, a skilled scribe in the law of Moses and a descendant of Aaron through the recorded priestly line, leaves Babylon during Artaxerxes's reign and arrives in Jerusalem. The hand of the LORD is with him because he has prepared his heart to seek, do, and teach the law. Show Ezra carrying scrolls and traveling with fellow returnees across dry roads, then studying Scripture at a lamplit table before the journey. Present the lineage as a written family record alongside Ezra, not as a single gathering of all his ancestors."
+    },
+    {
+        "panel_id": 18,
+        "book": "Ezra",
+        "chapter": 7,
+        "verses": "7:11-26",
+        "title": "Artaxerxes Grants Ezra Authority and Resources",
+        "image_prompt": "The king's letter permits Israelites, priests, and Levites to accompany Ezra, provides silver and gold for the house of God, authorizes purchases of offerings, and exempts Temple workers from certain taxes. Ezra is also authorized to appoint magistrates and judges familiar with the law, and to teach those who do not know it; penalties are specified for violations of the king's law. Show a Persian royal decree being read and sealed, with Ezra receiving documents and resources for the journey. Avoid portraying this as authority to force faith on every person in the empire."
+    },
+    {
+        "panel_id": 19,
+        "book": "Ezra",
+        "chapter": 7,
+        "verses": "7:27-28",
+        "title": "Ezra Thanks God for the King's Favor",
+        "image_prompt": "Ezra blesses the LORD, who has put the desire to beautify the house of God into the king's heart and shown steadfast mercy to him before the king and his counselors. Ezra takes courage and gathers leaders to go with him. Show Ezra in private thanksgiving, the signed decree and Temple supplies nearby, and fellow leaders assembling for the journey."
+    },
+    {
+        "panel_id": 20,
+        "book": "Ezra",
+        "chapter": 8,
+        "verses": "8:1-14",
+        "title": "The Family Heads Traveling with Ezra",
+        "image_prompt": "The record lists the family heads and genealogies of those who go up from Babylon with Ezra, including descendants of Phinehas, Ithamar, David, Parosh, Pahath-moab, Zattu, Adin, Elam, Shephatiah, Joab, and other houses. Show a travel register beside groups packing animals and provisions, with each ancestral group identified by a banner or scroll. Keep the names as a documentary element rather than inventing dialogue or actions for every listed traveler."
+    },
+    {
+        "panel_id": 21,
+        "book": "Ezra",
+        "chapter": 8,
+        "verses": "8:15-20",
+        "title": "Ezra Seeks Levites and Temple Servants",
+        "image_prompt": "At the river that flows to Ahava, Ezra examines the people and finds no Levites among the camp. He sends trusted leaders to Iddo at Casiphia, and Levites and Nethinim are brought to join the caravan. Show the encampment beside the river, Ezra discussing the missing service group with his officers, and the arriving Levites and Temple servants welcomed into the assembly."
+    },
+    {
+        "panel_id": 22,
+        "book": "Ezra",
+        "chapter": 8,
+        "verses": "8:21-30",
+        "title": "A Fast and the Safeguarding of Sacred Gifts",
+        "image_prompt": "Ezra proclaims a fast by the river to seek a safe journey for the people, children, possessions, and Temple gifts. He declines a military escort from the king because he has testified that God's hand protects those who seek Him. Ezra weighs silver, gold, and vessels before priests and leaders, charging them to guard these holy gifts until they are weighed again in Jerusalem. Show a solemn fasting assembly, followed by careful accounting of treasure placed in secured travel containers."
+    },
+    {
+        "panel_id": 23,
+        "book": "Ezra",
+        "chapter": 8,
+        "verses": "8:31-36",
+        "title": "The Caravan Arrives Safely in Jerusalem",
+        "image_prompt": "The group departs from the river and travels to Jerusalem under God's protection, arriving after the journey. They rest for three days, then weigh the silver, gold, and vessels in the Temple and offer sacrifices. The royal orders are delivered to local officials, who support the people and the house of God. Show the dusty caravan entering Jerusalem, the arrival inventory performed accurately, and offerings presented at the Temple."
+    },
+    {
+        "panel_id": 24,
+        "book": "Ezra",
+        "chapter": 9,
+        "verses": "9:1-4",
+        "title": "Ezra Hears of Covenant Unfaithfulness and Mourns",
+        "image_prompt": "Leaders report to Ezra that some Israelites, priests, and Levites have not kept themselves separate from surrounding idolatrous practices and have compromised covenant faithfulness. Ezra sits in profound grief, his head bowed and hand over his heart in deep solemn mourning, while others who tremble at the words of the God of Israel gather quietly around him in shared sorrow."
+    },
+    {
+        "panel_id": 25,
+        "book": "Ezra",
+        "chapter": 9,
+        "verses": "9:5-15",
+        "title": "Ezra's Prayer of Confession",
+        "image_prompt": "At the evening offering, Ezra rises from his deep grief, kneels, spreads his hands to the LORD, and confesses the people's guilt. He acknowledges that their sins have led to past captivity, yet God has granted a remnant, a secure place, and a measure of restoration. He fears the people are returning to the same disobedience. Show Ezra praying before the Temple, gathered listeners in silence, and the contrast between ruined history and the renewed sanctuary; no visible divine figure is required."
+    },
+    {
+        "panel_id": 26,
+        "book": "Ezra",
+        "chapter": 10,
+        "verses": "10:1-8",
+        "title": "The People Gather and Shecaniah Proposes a Covenant Response",
+        "image_prompt": "As Ezra prays and confesses, a large assembly of men, women, and children gather around him, weeping. Shecaniah acknowledges the community's unfaithfulness and proposes making a covenant to address the marriages at issue. Ezra calls the leaders and people to act; a proclamation requires those returning to Jerusalem to assemble, with property consequences for those who refuse. Show a crowded public square beside the Temple, Ezra kneeling, families listening anxiously, and leaders organizing an assembly."
+    },
+    {
+        "panel_id": 27,
+        "book": "Ezra",
+        "chapter": 10,
+        "verses": "10:9-17",
+        "title": "The Assembly Examines the Matter",
+        "image_prompt": "The men of Judah and Benjamin gather in Jerusalem in the ninth month, trembling because of the rain and the seriousness of the matter. Ezra calls them to confess and separate themselves from the surrounding practices that have violated the covenant. The assembly asks for an orderly process because of the size of the crowd and the weather; appointed leaders investigate family cases over subsequent months. Show a rain-soaked square, elders consulting lists, and households waiting their turn, with the emotional and social consequences treated soberly and without sensationalism."
+    },
+    {
+        "panel_id": 28,
+        "book": "Ezra",
+        "chapter": 10,
+        "verses": "10:18-44",
+        "title": "The Recorded Families and the End of the Inquiry",
+        "image_prompt": "The closing list names priests and other Israelite men who had taken foreign wives, including members of priestly families and many households from the people. Show a carefully written registry divided into priestly and lay family sections, with officials reviewing and recording the cases. The prompt should represent the passage as a formal list documenting the community's response, not invent private scenes or depict every family as identical. End with the assembly's work recorded in the archive near the Temple."
+    }
+]
