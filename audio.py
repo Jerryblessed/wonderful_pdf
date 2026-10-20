@@ -8,7 +8,7 @@ from google.genai import types
 # 1. CONFIGURATION
 # ------------------------------------------------------------------------------
 # Paste your API key here or set via $env:GEMINI_API_KEY
-API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6ITnnhdlpCqS3jIuqxN_frPVZAb7x6SHq_-1h0uQYneWA")
+API_KEY = os.getenv("GEMINI_API_KEY", "")
 client = genai.Client(api_key=API_KEY)
 
 MODEL_ID = "gemini-2.5-flash-preview-tts"
